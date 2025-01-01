@@ -1,0 +1,1201 @@
+ID,Age,Gender,Ethnicity,Region,BMI,Hypertension,Diabetes,Omega_3_Intake,Vitamin_D_Intake,Protein_Intake,Genetic_Risk_Score,Diet_Type,Projected_Risk_Reduction,Years_Followed,Outcome_Health_Score
+1,65,Other,Other,Europe,22.3,1,0,0.69,724.1,109.8,0.64,Omnivore,36.5,10,81.2
+2,24,Other,African,North America,21.0,0,1,1.82,625.8,66.8,0.02,Vegetarian,30.7,10,92.9
+3,31,Other,African,Africa,26.3,1,1,1.85,463.1,96.2,0.54,Vegetarian,29.5,6,72.3
+4,18,Female,Asian,Asia,19.4,1,1,3.12,253.5,57.4,0.8,Pescatarian,26.4,1,62.2
+5,18,Female,Hispanic,North America,23.4,0,1,3.25,615.1,44.1,0.22,Vegetarian,10.9,7,56.2
+6,27,Female,Hispanic,Europe,29.2,1,0,2.53,789.6,75.2,0.47,Vegetarian,14.3,10,61.0
+7,32,Other,Caucasian,Asia,24.7,0,0,1.09,539.3,41.3,0.6,Omnivore,30.3,5,56.8
+8,39,Female,Caucasian,North America,29.3,0,1,2.58,504.0,101.4,0.6,Omnivore,16.5,9,59.9
+9,29,Other,Asian,Asia,22.3,1,0,2.45,601.4,85.8,0.09,Pescatarian,37.9,3,72.6
+10,26,Female,Caucasian,North America,27.5,0,1,2.72,633.8,44.6,0.57,Pescatarian,25.7,2,95.8
+11,29,Other,Caucasian,North America,22.9,0,0,2.78,782.8,68.5,0.6,Omnivore,24.8,3,79.2
+12,42,Male,Hispanic,Europe,24.5,0,1,1.08,391.7,91.3,0.74,Pescatarian,15.0,8,85.7
+13,70,Other,Caucasian,Oceania,32.0,0,1,3.63,770.6,80.9,0.94,Vegetarian,42.0,8,81.0
+14,65,Other,Other,Oceania,31.2,0,0,3.06,277.6,77.0,0.6,Pescatarian,22.6,5,91.5
+15,80,Male,Caucasian,Europe,34.7,1,1,1.01,765.0,87.9,0.89,Omnivore,24.8,7,82.4
+16,77,Female,Asian,North America,26.5,1,0,1.45,275.8,44.0,0.74,Omnivore,11.8,9,83.9
+17,59,Male,Other,Europe,28.1,1,1,3.8,796.4,67.6,0.85,Pescatarian,29.8,1,84.9
+18,39,Male,Caucasian,Europe,20.1,1,1,0.54,273.5,42.0,0.92,Pescatarian,6.5,1,71.7
+19,62,Female,Asian,Europe,24.4,1,1,2.62,631.6,70.6,0.01,Vegetarian,42.4,1,83.8
+20,28,Female,African,Oceania,25.2,1,1,1.61,353.1,72.6,0.76,Vegetarian,29.4,4,97.1
+21,45,Male,Other,Africa,29.1,0,1,2.29,765.6,80.5,0.65,Pescatarian,10.3,5,64.9
+22,37,Other,Hispanic,Asia,28.1,1,0,0.85,244.5,106.2,0.99,Vegetarian,28.4,9,84.6
+23,70,Other,Asian,Europe,31.3,1,0,3.03,784.6,90.8,0.44,Omnivore,43.6,8,83.8
+24,28,Male,Hispanic,Asia,31.6,0,0,2.3,636.1,63.1,0.76,Vegetarian,48.0,3,56.2
+25,77,Male,Asian,North America,19.8,1,1,1.09,778.5,60.3,0.46,Vegetarian,28.2,1,63.7
+26,67,Male,Asian,Europe,31.8,1,0,3.34,207.7,99.3,0.03,Pescatarian,42.0,5,61.6
+27,71,Other,African,Africa,31.2,1,1,3.35,421.4,76.5,0.11,Omnivore,12.6,8,63.9
+28,52,Male,Other,North America,18.6,0,0,1.31,406.6,53.8,0.89,Vegetarian,48.8,10,55.2
+29,56,Male,Caucasian,Europe,24.5,1,0,2.06,529.7,54.8,0.85,Pescatarian,26.2,5,61.6
+30,36,Other,African,Asia,29.4,1,0,3.04,231.8,73.0,0.38,Vegetarian,6.3,7,60.8
+31,47,Male,Other,Europe,26.4,1,1,1.72,300.1,111.0,0.35,Omnivore,19.1,1,75.1
+32,54,Male,African,North America,29.5,1,1,1.41,313.8,109.5,0.81,Pescatarian,23.0,3,60.6
+33,35,Female,Other,Asia,25.9,1,0,3.11,639.0,42.6,0.86,Vegetarian,29.0,3,71.9
+34,22,Female,Hispanic,Oceania,23.6,0,0,2.14,573.7,100.1,0.37,Pescatarian,20.0,8,74.9
+35,50,Other,Caucasian,North America,21.8,0,0,2.2,702.4,82.4,0.54,Pescatarian,18.2,5,53.0
+36,26,Other,Hispanic,Asia,24.7,0,0,3.27,590.4,80.7,0.55,Pescatarian,30.3,8,72.3
+37,80,Male,Other,Europe,33.3,1,0,1.25,217.9,87.9,0.7,Vegetarian,5.9,1,65.3
+38,34,Male,Asian,Asia,34.4,1,0,3.82,572.7,106.6,0.18,Vegetarian,35.1,9,97.5
+39,73,Other,African,North America,24.6,1,1,1.06,224.3,57.2,0.74,Omnivore,36.8,9,91.1
+40,61,Female,Hispanic,Asia,23.0,0,0,3.16,494.7,100.9,0.53,Vegetarian,5.5,2,59.3
+41,55,Female,African,Africa,18.5,1,1,0.54,770.8,57.4,0.95,Omnivore,5.5,3,70.9
+42,23,Male,Asian,Europe,23.9,1,1,1.86,523.7,110.9,0.46,Omnivore,29.3,3,66.9
+43,39,Female,Asian,North America,21.2,0,0,3.5,714.5,103.7,0.34,Omnivore,40.5,6,53.7
+44,20,Male,Other,Oceania,20.2,0,0,2.97,509.1,91.4,0.23,Pescatarian,14.0,10,87.7
+45,78,Other,Other,Europe,23.0,0,0,3.24,221.4,55.4,0.33,Omnivore,17.8,10,95.7
+46,62,Female,African,Europe,21.9,0,1,2.41,284.7,117.0,0.29,Omnivore,19.4,4,84.1
+47,53,Female,Asian,Asia,25.2,1,1,3.05,211.0,77.9,0.95,Vegetarian,48.9,4,57.2
+48,43,Female,African,Asia,27.3,0,0,1.82,342.7,119.6,0.11,Omnivore,13.9,8,50.5
+49,25,Other,Hispanic,Asia,32.5,1,0,2.21,413.2,42.4,0.42,Vegetarian,23.2,3,95.2
+50,55,Other,Hispanic,Asia,26.1,0,1,2.93,559.1,92.9,0.49,Vegetarian,12.4,9,93.2
+51,28,Other,Hispanic,Africa,22.1,1,0,1.21,797.6,77.3,0.46,Pescatarian,26.6,1,59.1
+52,73,Other,Asian,Europe,33.8,0,1,2.04,506.7,45.4,0.38,Vegetarian,22.2,10,58.8
+53,55,Male,African,Asia,29.8,1,1,1.05,751.0,74.8,0.95,Vegetarian,9.2,5,52.0
+54,52,Female,African,Asia,30.3,1,1,3.78,273.6,107.5,0.45,Omnivore,9.0,3,91.8
+55,36,Other,Caucasian,Europe,32.8,1,1,2.75,484.4,88.3,0.29,Pescatarian,35.3,7,85.3
+56,43,Other,Asian,Oceania,22.5,1,0,2.88,247.7,84.6,0.08,Pescatarian,38.4,4,85.2
+57,19,Female,African,Oceania,28.8,1,1,3.12,246.1,73.5,0.63,Omnivore,12.3,9,78.8
+58,30,Female,Other,Africa,24.6,0,0,2.31,456.1,80.9,0.62,Pescatarian,38.1,5,68.8
+59,60,Female,African,Europe,31.0,1,0,3.62,357.5,46.5,0.34,Pescatarian,11.2,3,81.2
+60,39,Male,African,Asia,30.4,0,0,0.6,657.4,113.5,0.54,Omnivore,14.9,1,74.6
+61,20,Male,Hispanic,Oceania,22.7,1,1,1.55,559.3,104.4,0.49,Omnivore,39.7,4,50.1
+62,54,Female,Other,Asia,29.3,1,1,3.31,699.1,103.3,0.41,Pescatarian,26.7,6,51.2
+63,32,Male,Asian,Europe,30.9,0,0,0.83,621.4,75.0,0.87,Pescatarian,27.2,5,90.0
+64,70,Female,Asian,Africa,34.6,0,0,3.73,545.4,114.3,0.46,Omnivore,35.9,4,72.9
+65,77,Female,Other,Oceania,21.7,1,1,1.54,515.3,116.4,0.03,Vegetarian,26.1,6,92.8
+66,44,Other,Caucasian,Oceania,26.0,1,0,3.35,702.5,110.3,0.02,Vegetarian,26.6,6,60.1
+67,22,Female,African,Asia,28.5,0,0,2.82,409.1,90.9,0.57,Pescatarian,45.5,8,95.3
+68,51,Female,Asian,Asia,28.9,0,1,2.02,766.8,96.6,0.24,Vegetarian,26.6,2,90.4
+69,24,Male,Other,Europe,21.1,0,1,1.92,452.0,85.3,0.75,Vegetarian,14.5,10,90.3
+70,36,Other,African,North America,22.7,0,1,2.78,761.9,96.1,0.31,Pescatarian,14.7,10,85.7
+71,70,Female,Other,North America,28.1,0,0,1.89,311.6,86.1,0.16,Vegetarian,46.1,9,90.7
+72,79,Female,Other,Asia,27.9,0,1,2.54,537.7,54.1,0.97,Pescatarian,38.4,8,58.4
+73,73,Female,Asian,North America,28.8,0,1,2.91,248.7,105.3,0.28,Omnivore,12.7,8,62.3
+74,49,Female,African,Asia,28.7,1,1,3.35,615.1,73.4,0.83,Omnivore,39.9,8,72.6
+75,67,Female,Asian,Europe,33.0,1,1,1.35,521.0,88.2,0.57,Vegetarian,19.6,7,96.9
+76,56,Other,Other,Africa,24.7,1,1,3.88,463.7,88.5,0.63,Omnivore,8.5,6,97.9
+77,70,Other,Hispanic,Africa,26.0,1,1,2.83,321.1,77.1,0.11,Pescatarian,48.0,8,50.4
+78,62,Female,Other,Oceania,26.7,0,0,1.2,440.8,45.0,0.65,Pescatarian,48.3,8,64.5
+79,37,Male,Asian,Asia,26.6,0,1,3.42,497.3,119.7,0.07,Vegetarian,10.5,2,67.5
+80,67,Male,Caucasian,North America,31.7,1,0,0.74,300.5,77.4,0.77,Omnivore,29.9,4,58.4
+81,31,Male,Other,North America,19.3,0,1,3.79,638.3,50.4,0.04,Vegetarian,25.9,1,91.1
+82,28,Male,African,Europe,29.6,0,1,2.86,436.9,53.1,0.43,Pescatarian,24.3,5,70.6
+83,57,Female,Asian,Asia,27.4,0,1,0.98,661.9,93.5,0.05,Vegetarian,43.6,4,55.4
+84,36,Female,Asian,North America,18.8,1,1,2.79,538.3,112.3,0.03,Pescatarian,8.7,3,66.5
+85,47,Female,Caucasian,North America,28.9,0,0,3.21,285.4,101.8,0.73,Pescatarian,48.1,10,75.1
+86,41,Other,Other,Africa,21.0,0,0,0.69,364.4,54.8,0.7,Pescatarian,25.1,3,87.1
+87,35,Female,Asian,Europe,34.2,1,1,1.7,727.9,110.9,0.62,Vegetarian,17.3,6,67.2
+88,25,Male,Caucasian,North America,24.9,0,1,3.28,225.3,46.2,0.8,Omnivore,41.7,10,68.7
+89,43,Other,Other,North America,26.0,1,1,3.25,253.8,84.4,0.46,Omnivore,15.6,1,74.7
+90,67,Other,Other,Africa,31.7,1,0,3.27,329.6,109.4,0.72,Vegetarian,11.6,5,66.3
+91,67,Female,Other,Africa,22.1,1,0,1.17,605.4,108.2,0.26,Pescatarian,47.7,7,65.1
+92,26,Male,Other,Africa,20.7,0,1,1.11,595.7,108.3,0.27,Pescatarian,43.9,10,63.1
+93,26,Female,Asian,North America,21.3,0,0,1.16,793.0,47.2,0.53,Pescatarian,31.4,4,74.4
+94,52,Other,Other,Africa,33.2,0,1,0.58,264.8,73.4,0.96,Vegetarian,44.1,3,63.1
+95,26,Male,Caucasian,Africa,30.7,1,1,1.78,511.4,54.0,0.93,Pescatarian,47.2,9,75.9
+96,65,Other,Asian,Oceania,28.0,1,1,0.89,759.5,111.0,0.36,Vegetarian,46.4,5,75.6
+97,56,Other,Other,Asia,28.0,1,1,0.61,584.6,73.2,0.85,Omnivore,35.0,8,63.5
+98,64,Male,Asian,Europe,21.3,0,1,1.04,527.2,95.9,0.23,Vegetarian,23.7,5,97.0
+99,18,Male,African,Oceania,24.8,0,1,0.75,623.6,80.7,0.01,Vegetarian,5.4,8,54.8
+100,52,Female,African,North America,33.5,1,0,2.55,242.4,66.4,0.1,Vegetarian,6.6,9,81.1
+101,57,Other,Other,Oceania,34.5,1,1,2.39,452.9,76.8,0.75,Omnivore,37.9,3,98.8
+102,62,Male,Asian,North America,33.6,0,1,3.27,516.0,115.2,0.14,Vegetarian,32.4,1,53.9
+103,42,Male,Caucasian,Europe,33.0,1,0,3.47,253.5,55.4,0.17,Pescatarian,11.8,2,76.4
+104,60,Other,Hispanic,Oceania,27.8,0,0,3.79,235.3,49.9,0.81,Pescatarian,24.6,9,89.1
+105,33,Other,African,Asia,29.2,0,0,1.28,399.4,66.2,0.35,Vegetarian,17.0,1,67.4
+106,35,Other,Caucasian,North America,19.0,0,1,0.9,299.9,94.9,0.79,Omnivore,42.7,7,86.7
+107,70,Female,Other,Oceania,27.8,0,1,0.68,286.5,106.4,0.73,Omnivore,17.5,2,87.7
+108,25,Female,Other,North America,23.5,1,1,2.92,312.7,54.2,0.05,Vegetarian,17.6,4,56.1
+109,80,Other,African,Oceania,35.0,1,0,1.5,561.7,41.4,0.68,Pescatarian,11.9,2,97.6
+110,53,Male,Asian,Oceania,22.3,1,0,3.0,336.8,108.1,0.99,Pescatarian,39.0,7,75.1
+111,60,Male,African,Europe,31.8,1,0,2.84,331.7,70.2,0.36,Omnivore,9.0,1,52.7
+112,67,Other,Caucasian,Asia,31.7,0,1,1.07,230.8,118.5,0.72,Omnivore,27.6,4,59.8
+113,24,Other,Other,Oceania,20.7,0,1,2.45,313.8,49.8,0.18,Pescatarian,44.3,6,92.8
+114,22,Male,Hispanic,Asia,22.8,1,1,1.9,243.6,92.7,0.66,Omnivore,9.3,4,96.5
+115,49,Other,Asian,Africa,34.2,0,0,0.71,544.7,115.4,0.24,Vegetarian,43.6,2,83.6
+116,45,Female,Caucasian,Europe,25.3,0,1,2.45,288.5,112.7,0.75,Omnivore,40.9,3,78.0
+117,26,Female,Asian,Oceania,19.1,1,0,2.29,445.8,79.6,0.34,Omnivore,35.5,7,94.4
+118,24,Female,Other,Oceania,30.4,0,0,1.91,637.6,106.8,0.35,Vegetarian,6.5,10,69.2
+119,69,Other,Hispanic,Africa,32.0,0,0,3.16,465.9,106.1,0.09,Omnivore,34.5,1,65.1
+120,19,Other,Asian,Europe,27.0,0,0,1.6,451.6,94.5,0.55,Vegetarian,15.4,9,62.6
+121,39,Other,Asian,Oceania,21.3,0,0,2.54,304.8,118.1,0.47,Pescatarian,27.3,8,53.1
+122,28,Female,Asian,Asia,28.5,0,0,3.51,668.0,60.5,0.19,Vegetarian,24.7,7,54.3
+123,51,Other,African,Oceania,21.9,0,1,0.52,314.7,55.1,0.68,Vegetarian,49.8,4,80.8
+124,64,Other,Caucasian,Oceania,18.8,1,1,0.71,667.3,72.1,0.67,Pescatarian,26.4,6,62.0
+125,39,Other,African,Europe,33.8,0,0,1.44,673.4,80.2,0.81,Vegetarian,18.2,4,79.2
+126,72,Female,Asian,Oceania,19.6,0,1,2.51,466.9,88.8,0.07,Vegetarian,42.5,3,97.8
+127,69,Male,Hispanic,Africa,22.3,0,0,3.73,286.2,57.5,0.71,Pescatarian,45.0,9,84.6
+128,20,Male,Other,Europe,30.2,1,0,3.14,337.4,106.2,0.07,Omnivore,34.7,2,84.2
+129,33,Female,Caucasian,Europe,24.2,1,0,1.41,342.6,44.6,0.07,Omnivore,37.3,5,55.4
+130,55,Female,Other,North America,34.1,1,1,3.69,394.5,40.4,0.39,Pescatarian,47.7,8,54.3
+131,55,Male,Caucasian,Asia,32.7,1,0,3.37,279.5,59.9,0.12,Vegetarian,34.1,10,81.6
+132,47,Other,Caucasian,Oceania,20.8,0,1,2.88,479.4,52.6,0.55,Pescatarian,39.2,9,90.0
+133,51,Male,Asian,North America,28.8,1,1,0.91,552.4,56.9,0.53,Vegetarian,27.1,9,63.9
+134,64,Female,Asian,Europe,28.3,0,1,3.44,325.3,44.7,0.39,Pescatarian,6.6,6,80.9
+135,21,Male,Other,North America,20.4,0,1,2.34,736.8,93.5,0.01,Omnivore,5.7,4,73.9
+136,20,Other,Hispanic,North America,25.6,1,1,1.56,421.1,114.2,0.45,Omnivore,40.1,6,78.1
+137,19,Male,Caucasian,Europe,34.1,0,1,2.33,702.3,61.0,0.02,Pescatarian,17.2,10,96.8
+138,58,Female,African,Oceania,28.4,1,0,3.03,439.6,114.7,0.04,Vegetarian,49.9,6,88.6
+139,35,Female,Asian,Africa,25.1,0,1,0.63,522.8,71.4,0.33,Pescatarian,48.1,5,75.9
+140,63,Other,African,North America,30.6,1,0,2.41,729.3,113.4,0.71,Omnivore,40.8,5,84.7
+141,68,Other,African,Asia,24.6,1,1,3.23,494.9,90.6,0.73,Vegetarian,5.2,5,90.8
+142,57,Female,Other,Europe,28.6,1,1,2.23,501.1,96.0,0.33,Vegetarian,41.4,6,59.1
+143,43,Other,Other,North America,19.8,0,1,1.84,602.6,58.2,0.26,Vegetarian,25.9,9,86.7
+144,38,Other,African,Asia,32.6,0,0,0.86,496.3,58.8,0.74,Vegetarian,45.8,4,73.2
+145,32,Female,Hispanic,Europe,31.8,0,0,3.46,719.6,106.3,0.06,Omnivore,37.9,8,61.1
+146,36,Other,Asian,Europe,23.3,0,1,1.68,686.5,118.8,1.0,Pescatarian,15.1,9,71.7
+147,50,Female,Asian,Europe,21.1,1,1,1.99,275.3,40.7,0.21,Pescatarian,19.6,2,97.2
+148,62,Other,Asian,Oceania,28.9,1,1,1.57,527.9,107.7,0.3,Vegetarian,11.8,9,66.9
+149,72,Male,Hispanic,North America,29.6,1,0,2.21,406.3,42.1,0.45,Omnivore,25.8,9,84.7
+150,42,Female,African,Africa,21.0,1,1,1.85,689.4,56.3,0.81,Vegetarian,30.7,2,70.3
+151,38,Other,Asian,Oceania,20.6,1,1,1.95,306.5,87.8,0.89,Omnivore,26.9,2,72.3
+152,76,Female,Caucasian,Europe,22.3,1,0,1.77,369.1,65.1,0.99,Omnivore,16.6,2,79.5
+153,47,Other,Asian,Africa,19.0,0,0,3.61,738.6,103.6,0.26,Omnivore,18.1,2,64.8
+154,31,Other,Asian,North America,31.5,1,0,0.7,420.0,85.8,0.01,Omnivore,10.1,8,90.5
+155,43,Other,Other,North America,33.9,0,1,0.69,464.2,117.4,0.32,Omnivore,7.7,8,51.2
+156,27,Other,Hispanic,Asia,33.7,1,1,2.1,544.1,105.3,0.26,Vegetarian,14.8,8,99.2
+157,53,Male,African,Asia,28.5,1,1,2.43,433.1,85.8,0.76,Pescatarian,7.8,7,58.1
+158,38,Male,African,Africa,25.6,1,0,1.93,736.9,69.5,0.97,Omnivore,17.5,5,93.2
+159,61,Female,Asian,North America,21.9,0,1,2.77,604.4,92.4,0.28,Omnivore,43.9,6,67.0
+160,23,Female,African,Oceania,29.8,1,1,2.5,514.3,120.0,0.49,Omnivore,48.3,5,65.2
+161,28,Male,Caucasian,Oceania,25.1,1,1,3.27,320.1,91.5,0.36,Omnivore,45.3,4,82.7
+162,44,Male,Asian,Asia,33.8,0,1,2.19,267.9,81.2,0.58,Vegetarian,14.3,6,67.9
+163,18,Other,Asian,Asia,26.3,0,1,1.88,210.1,93.6,0.55,Omnivore,42.3,2,95.1
+164,26,Male,African,Europe,19.7,1,1,1.96,278.4,117.5,0.57,Omnivore,6.2,1,85.4
+165,60,Other,Hispanic,North America,27.4,1,1,0.82,798.6,108.0,0.12,Vegetarian,42.9,5,54.5
+166,65,Other,Other,Asia,33.1,1,1,1.68,404.7,71.9,0.26,Vegetarian,35.1,4,90.3
+167,69,Female,Hispanic,Africa,32.7,1,0,0.57,742.9,52.8,0.5,Omnivore,43.9,3,92.2
+168,74,Other,Caucasian,Europe,22.1,0,0,1.02,256.9,116.4,0.56,Omnivore,34.1,7,60.8
+169,46,Female,Caucasian,Oceania,20.2,0,0,3.97,232.4,99.0,0.03,Omnivore,8.4,6,96.4
+170,61,Other,Hispanic,North America,18.9,0,1,0.69,551.5,74.8,0.67,Pescatarian,32.7,7,73.5
+171,46,Male,Caucasian,North America,28.3,0,0,3.93,286.8,97.5,0.37,Vegetarian,7.3,2,85.3
+172,32,Other,Caucasian,Asia,20.7,1,1,2.49,746.9,67.8,0.93,Omnivore,12.9,6,58.2
+173,77,Male,Asian,North America,30.6,0,1,1.38,216.7,66.9,0.7,Omnivore,12.4,2,56.2
+174,68,Female,Asian,North America,18.5,1,1,1.65,673.3,90.4,0.34,Omnivore,42.5,8,94.3
+175,71,Female,Asian,Oceania,32.3,1,0,3.02,397.0,96.3,0.53,Omnivore,38.9,7,92.0
+176,66,Male,African,Oceania,31.0,1,0,1.32,442.5,117.6,0.65,Vegetarian,46.1,5,91.1
+177,41,Male,Other,Europe,24.8,0,1,1.89,567.5,114.1,0.89,Vegetarian,32.2,7,65.4
+178,26,Male,Caucasian,Oceania,33.4,0,0,1.71,534.1,41.6,0.16,Omnivore,27.8,2,81.4
+179,61,Female,Asian,North America,21.5,1,0,3.96,394.3,49.4,0.62,Vegetarian,12.1,2,52.8
+180,50,Other,Asian,Asia,31.3,0,0,3.5,603.8,59.2,0.49,Omnivore,46.9,2,50.8
+181,32,Male,Other,Asia,25.7,1,0,2.52,365.1,96.8,0.25,Omnivore,13.1,3,96.4
+182,74,Male,Other,Africa,31.2,0,1,1.89,787.9,45.4,0.3,Pescatarian,21.9,10,95.9
+183,47,Other,Hispanic,Europe,34.0,1,0,2.73,408.2,111.1,0.25,Vegetarian,40.5,2,51.3
+184,42,Male,Asian,North America,21.8,1,1,0.69,576.1,69.7,0.64,Vegetarian,40.7,7,60.1
+185,77,Male,Asian,Africa,19.8,1,0,1.21,562.2,92.4,0.14,Pescatarian,16.6,10,68.5
+186,21,Male,Hispanic,North America,26.0,0,0,2.62,617.3,48.3,0.96,Vegetarian,31.5,10,53.3
+187,46,Female,Other,Africa,34.9,0,1,2.42,257.3,54.1,0.89,Vegetarian,13.3,4,83.9
+188,49,Male,Caucasian,Asia,22.0,0,0,2.73,514.5,95.6,0.55,Pescatarian,43.6,2,79.8
+189,58,Other,Hispanic,North America,33.5,0,1,1.14,605.6,67.5,0.73,Pescatarian,20.1,9,98.6
+190,49,Female,Other,Africa,27.1,1,0,3.6,492.4,96.8,0.08,Omnivore,11.4,1,65.6
+191,64,Female,Asian,Europe,31.5,0,0,2.09,753.2,84.5,0.64,Omnivore,9.3,6,96.4
+192,24,Other,Other,North America,28.1,0,0,1.45,542.1,103.4,0.27,Omnivore,28.7,9,75.1
+193,60,Female,African,Europe,25.1,1,1,1.32,719.7,91.2,0.74,Omnivore,23.4,7,88.1
+194,36,Female,Hispanic,North America,20.3,1,1,2.25,738.2,46.3,0.31,Omnivore,21.1,5,66.1
+195,44,Other,African,Asia,32.1,1,1,1.08,786.5,69.7,0.03,Pescatarian,14.5,1,62.7
+196,23,Female,Caucasian,Europe,24.3,0,1,3.35,539.8,61.8,0.82,Vegetarian,26.9,9,82.4
+197,44,Female,Hispanic,Asia,31.1,0,1,2.42,578.5,56.3,0.37,Vegetarian,46.4,2,78.3
+198,80,Female,Asian,Oceania,25.0,1,1,3.74,348.0,81.1,0.14,Vegetarian,27.4,4,67.0
+199,68,Other,Caucasian,Asia,26.9,0,1,2.62,589.5,43.2,0.58,Vegetarian,28.7,3,97.1
+200,75,Other,Hispanic,Africa,34.5,0,0,0.8,607.5,80.7,0.92,Pescatarian,29.0,10,60.8
+201,27,Female,African,Oceania,31.6,0,1,1.08,507.3,41.8,0.46,Vegetarian,19.4,9,77.6
+202,39,Female,African,Africa,34.7,0,1,1.14,349.3,101.1,0.58,Pescatarian,6.5,4,51.1
+203,74,Female,African,Europe,23.6,1,0,3.39,328.2,76.9,0.53,Vegetarian,27.3,9,58.2
+204,34,Other,Other,Europe,29.4,0,1,0.6,760.3,43.7,0.31,Pescatarian,42.8,9,83.0
+205,30,Male,Other,Europe,19.1,1,1,3.63,334.3,107.3,0.45,Omnivore,20.7,1,81.3
+206,61,Male,Other,North America,22.1,1,0,2.13,439.4,103.0,0.27,Omnivore,7.0,1,64.2
+207,31,Male,Asian,North America,25.7,1,1,2.2,714.2,67.9,0.35,Vegetarian,41.7,3,50.9
+208,58,Male,Other,Oceania,22.7,0,1,1.49,681.2,113.3,0.94,Pescatarian,19.4,4,53.5
+209,30,Other,African,Europe,31.7,0,0,0.9,674.9,71.0,0.14,Pescatarian,19.6,9,77.5
+210,24,Female,Other,Africa,24.3,1,0,1.4,742.3,107.7,0.74,Omnivore,15.8,3,51.0
+211,54,Male,Asian,Oceania,31.4,1,0,3.0,446.3,106.8,0.79,Omnivore,40.8,10,99.6
+212,65,Male,Caucasian,Africa,21.8,1,1,0.79,723.4,61.3,0.03,Pescatarian,40.5,5,52.6
+213,58,Other,Other,Oceania,21.7,0,1,2.15,445.1,110.0,0.7,Vegetarian,26.1,9,83.0
+214,74,Male,Asian,North America,32.7,0,1,2.58,607.4,119.3,0.81,Omnivore,49.4,3,50.6
+215,66,Female,Caucasian,Oceania,33.6,0,0,2.57,779.0,45.8,0.43,Omnivore,42.1,4,78.8
+216,53,Male,Asian,Oceania,19.2,1,0,1.42,609.7,93.2,0.05,Omnivore,34.4,9,99.0
+217,46,Other,Hispanic,Asia,25.0,1,1,2.15,653.9,119.9,0.41,Omnivore,32.5,10,78.2
+218,45,Other,Hispanic,Oceania,32.9,0,1,2.32,485.6,76.5,0.38,Vegetarian,29.0,7,74.8
+219,45,Female,Hispanic,Asia,22.5,0,0,3.05,714.7,99.7,0.06,Pescatarian,31.7,10,53.1
+220,42,Male,Asian,Oceania,22.6,1,1,3.23,633.0,68.9,0.7,Omnivore,13.6,8,97.3
+221,53,Female,Caucasian,Europe,20.8,1,0,3.17,430.8,91.4,0.53,Omnivore,39.0,3,74.2
+222,42,Female,Caucasian,Africa,27.8,0,1,2.12,353.1,41.8,0.72,Vegetarian,6.1,1,57.0
+223,48,Other,Other,Africa,18.7,0,0,0.84,704.8,70.2,0.92,Vegetarian,13.6,8,73.4
+224,62,Female,Caucasian,North America,30.5,0,1,2.85,298.9,112.9,0.4,Vegetarian,16.6,5,95.9
+225,66,Other,Hispanic,North America,23.9,0,0,3.22,775.3,46.6,0.56,Pescatarian,10.8,2,96.7
+226,42,Other,Asian,Africa,31.4,0,0,3.86,338.5,101.6,0.46,Vegetarian,48.1,6,84.7
+227,64,Female,Asian,Oceania,31.2,0,0,1.17,473.6,83.9,0.23,Omnivore,47.1,6,83.2
+228,34,Female,African,Asia,28.1,0,0,0.58,590.9,91.2,0.1,Pescatarian,23.5,5,86.0
+229,66,Male,African,Asia,31.7,1,0,3.34,247.9,54.9,1.0,Omnivore,28.9,5,89.4
+230,72,Male,African,Europe,28.3,1,0,2.47,498.9,62.4,0.96,Vegetarian,20.9,2,91.4
+231,68,Other,African,Europe,32.6,1,0,1.5,245.4,109.5,0.64,Vegetarian,14.6,10,79.7
+232,41,Other,Caucasian,Africa,30.3,1,1,3.6,546.2,85.7,0.78,Omnivore,42.0,10,80.1
+233,55,Male,Other,Asia,30.8,1,1,1.46,776.2,61.3,0.25,Vegetarian,28.7,1,81.3
+234,19,Other,Hispanic,Oceania,22.9,0,0,2.67,534.5,63.2,0.47,Pescatarian,19.0,7,86.8
+235,75,Female,Caucasian,Africa,31.0,1,0,3.26,450.7,104.1,0.56,Omnivore,10.7,5,81.4
+236,77,Other,Caucasian,North America,25.7,1,1,2.17,510.9,95.1,0.62,Vegetarian,14.1,5,51.5
+237,71,Other,Hispanic,Europe,18.7,0,0,0.52,381.5,42.3,0.78,Vegetarian,16.3,5,87.9
+238,45,Other,African,Oceania,26.3,1,1,1.95,261.7,58.6,0.13,Pescatarian,22.2,5,56.4
+239,24,Other,Other,Asia,24.3,1,0,2.88,476.4,75.2,0.57,Omnivore,39.6,4,81.1
+240,39,Male,Asian,Oceania,25.7,0,0,1.67,513.1,93.4,0.06,Vegetarian,29.4,9,85.8
+241,67,Female,Caucasian,Europe,30.2,1,1,1.55,411.4,45.1,0.7,Pescatarian,47.6,3,93.7
+242,40,Male,Hispanic,North America,25.4,0,0,2.96,535.9,43.6,0.79,Pescatarian,16.9,8,71.7
+243,33,Female,Asian,Africa,20.9,1,1,3.85,733.1,106.9,0.68,Omnivore,24.5,6,98.4
+244,21,Female,African,Asia,26.5,0,0,1.8,689.5,78.8,0.24,Omnivore,30.7,5,69.1
+245,73,Other,Hispanic,Africa,29.3,1,0,0.86,501.9,75.7,0.51,Omnivore,27.0,4,73.3
+246,24,Female,African,Oceania,22.9,1,1,1.89,308.4,97.2,0.99,Vegetarian,36.9,9,77.7
+247,73,Other,Caucasian,Oceania,18.7,1,0,2.01,635.9,60.3,0.78,Pescatarian,12.9,10,61.8
+248,34,Other,Asian,North America,26.1,1,1,1.65,618.4,103.9,0.03,Pescatarian,13.6,5,87.0
+249,52,Female,Other,North America,20.6,0,1,1.2,362.1,84.0,0.41,Omnivore,24.7,1,65.7
+250,79,Female,Other,Africa,28.4,1,1,3.64,586.6,63.0,0.01,Pescatarian,49.4,2,97.2
+251,18,Female,Other,Europe,32.4,1,1,1.96,497.8,78.9,0.54,Vegetarian,32.4,3,90.7
+252,30,Female,Caucasian,Asia,19.4,1,0,1.51,325.8,42.3,0.75,Vegetarian,6.0,10,79.3
+253,73,Other,Caucasian,Oceania,22.6,1,0,3.89,395.7,66.0,0.58,Vegetarian,14.5,6,56.3
+254,47,Male,African,Oceania,20.6,1,0,3.26,332.6,83.9,0.08,Omnivore,17.8,8,56.5
+255,53,Other,Other,Europe,20.6,0,1,3.18,470.5,94.3,0.92,Vegetarian,21.7,2,92.0
+256,34,Other,Other,North America,25.5,0,0,2.91,600.4,45.6,0.85,Pescatarian,17.1,7,96.5
+257,29,Male,African,Asia,32.8,1,0,1.91,319.0,42.2,0.52,Omnivore,14.0,3,55.9
+258,26,Other,Caucasian,Oceania,35.0,1,0,2.79,753.6,59.2,0.91,Pescatarian,10.7,8,77.7
+259,78,Female,African,Africa,32.7,0,1,0.66,342.6,46.3,0.15,Omnivore,47.6,2,80.4
+260,46,Male,Caucasian,Europe,31.9,1,1,1.08,601.0,75.5,0.68,Omnivore,38.7,2,65.4
+261,76,Female,Caucasian,Oceania,19.9,0,1,1.87,285.4,74.6,0.96,Vegetarian,25.6,10,68.8
+262,80,Male,Asian,Europe,34.9,1,1,1.65,598.2,85.3,0.64,Vegetarian,10.4,8,69.7
+263,32,Female,Asian,Oceania,18.9,1,1,1.11,349.5,70.0,0.45,Omnivore,34.6,4,64.9
+264,60,Other,Asian,Europe,31.7,1,1,2.21,549.6,91.6,0.37,Pescatarian,43.8,5,50.8
+265,30,Female,Other,Africa,22.8,1,0,3.36,701.4,61.8,0.33,Vegetarian,46.2,7,93.2
+266,58,Male,Hispanic,North America,23.6,0,0,1.21,662.4,104.9,0.3,Omnivore,8.2,2,79.4
+267,47,Male,African,Africa,28.7,1,1,3.12,407.3,93.2,0.06,Vegetarian,32.0,3,51.8
+268,54,Other,Asian,Africa,33.5,0,0,1.96,374.9,70.2,0.55,Omnivore,32.0,1,71.3
+269,54,Male,African,Africa,33.0,0,0,1.1,538.5,75.5,0.59,Omnivore,46.0,3,98.6
+270,44,Female,Asian,Oceania,30.7,0,1,0.82,753.0,41.7,0.63,Pescatarian,8.2,4,70.6
+271,66,Other,Other,Africa,34.8,0,1,0.97,706.7,115.2,0.05,Pescatarian,28.6,1,75.4
+272,64,Female,Hispanic,Oceania,28.9,0,1,2.69,291.2,55.7,0.35,Pescatarian,20.5,2,83.4
+273,26,Male,Asian,Asia,23.3,0,1,1.88,455.4,89.3,0.29,Omnivore,34.8,4,89.6
+274,23,Other,Asian,Europe,20.5,0,0,2.59,621.1,83.4,0.83,Pescatarian,11.4,1,71.2
+275,37,Male,Asian,Asia,29.4,0,0,3.04,742.4,76.8,0.39,Omnivore,29.5,9,80.0
+276,27,Female,African,Africa,21.4,0,1,3.49,248.6,92.7,0.25,Omnivore,35.6,3,51.7
+277,72,Other,Other,North America,25.3,1,1,3.95,693.0,76.3,0.07,Omnivore,44.6,6,65.9
+278,68,Male,Other,Europe,35.0,1,1,1.14,363.1,65.6,0.45,Vegetarian,13.1,10,93.5
+279,32,Other,Caucasian,Europe,30.2,0,1,3.17,637.8,46.0,0.69,Pescatarian,41.8,7,90.4
+280,27,Other,Other,Europe,24.5,0,1,1.77,658.9,108.4,0.2,Vegetarian,36.3,6,80.1
+281,78,Other,Caucasian,Oceania,26.3,1,0,3.96,233.5,80.2,0.62,Pescatarian,27.8,7,69.7
+282,70,Female,African,Asia,28.1,1,0,3.32,603.2,76.5,0.48,Vegetarian,28.5,7,92.0
+283,55,Male,African,Africa,21.0,0,0,1.38,503.9,109.7,0.73,Omnivore,28.5,8,66.6
+284,57,Female,Hispanic,Africa,21.0,1,0,3.97,481.5,43.3,0.6,Vegetarian,24.7,9,83.9
+285,79,Female,African,Asia,21.9,1,0,1.98,282.7,64.7,0.71,Omnivore,13.8,10,83.3
+286,46,Other,Caucasian,Oceania,22.4,1,1,0.75,672.4,57.5,0.58,Omnivore,18.0,3,85.6
+287,53,Other,Asian,Europe,27.2,1,1,3.06,770.2,55.1,0.51,Vegetarian,43.8,4,85.2
+288,44,Female,Other,North America,22.4,1,0,2.18,626.6,115.6,0.65,Pescatarian,30.3,8,67.8
+289,37,Female,African,Africa,33.0,0,1,3.32,759.5,99.1,0.88,Omnivore,28.7,4,72.4
+290,65,Other,Other,Asia,30.7,0,0,1.54,550.5,42.7,0.02,Omnivore,12.5,1,76.8
+291,69,Other,Caucasian,Africa,20.4,0,1,3.23,539.2,80.8,0.95,Omnivore,26.1,7,94.0
+292,65,Other,Other,Africa,30.5,1,1,2.52,567.4,64.9,0.69,Vegetarian,15.3,6,53.8
+293,39,Male,Hispanic,North America,30.5,0,0,0.93,645.4,105.5,0.6,Pescatarian,16.7,9,72.9
+294,29,Female,Other,Oceania,24.1,0,1,1.81,381.1,115.5,0.8,Vegetarian,46.8,1,58.4
+295,59,Other,Caucasian,Asia,33.9,0,1,2.11,362.5,42.1,0.13,Omnivore,16.2,1,66.7
+296,26,Other,Caucasian,North America,19.7,0,0,3.8,385.4,93.8,0.81,Vegetarian,40.5,8,60.9
+297,65,Female,Hispanic,Africa,19.7,1,1,2.18,240.1,97.5,0.9,Pescatarian,13.9,2,67.6
+298,60,Other,Other,Africa,29.1,1,0,2.85,727.4,113.3,0.68,Pescatarian,12.5,5,86.6
+299,22,Male,African,Asia,31.5,1,1,1.71,379.2,68.5,0.94,Vegetarian,42.9,2,83.8
+300,69,Other,Hispanic,Oceania,30.2,0,1,1.42,385.5,48.8,0.35,Omnivore,32.3,5,53.2
+301,77,Other,African,Asia,30.5,0,0,2.84,768.2,109.9,0.13,Pescatarian,22.7,4,75.2
+302,36,Male,Caucasian,Europe,23.9,0,0,3.66,712.2,55.6,0.21,Vegetarian,47.5,8,70.1
+303,54,Male,Other,North America,23.6,0,0,2.64,649.1,111.7,0.08,Omnivore,43.3,5,76.3
+304,56,Male,African,Europe,27.8,1,0,1.81,261.1,105.8,0.36,Omnivore,31.9,6,84.9
+305,73,Other,Caucasian,Oceania,35.0,0,0,1.17,548.8,46.5,0.51,Omnivore,35.9,1,87.2
+306,42,Male,Other,Oceania,24.1,0,0,3.68,288.0,72.2,0.43,Omnivore,17.0,3,67.7
+307,79,Male,African,Oceania,26.4,1,1,1.3,697.2,44.8,0.78,Pescatarian,7.3,10,70.0
+308,67,Male,Caucasian,North America,24.9,0,0,3.5,376.3,84.1,0.38,Pescatarian,23.3,5,70.7
+309,28,Female,African,Africa,27.4,0,0,1.91,222.0,101.5,0.05,Pescatarian,17.0,8,69.8
+310,70,Other,Caucasian,Asia,23.6,0,1,3.83,778.8,50.1,0.26,Pescatarian,33.6,9,84.2
+311,69,Female,Asian,North America,31.9,1,0,1.98,680.4,60.8,0.22,Pescatarian,40.6,5,84.2
+312,23,Male,Other,North America,31.8,1,0,1.64,348.7,98.7,0.73,Vegetarian,9.9,10,63.6
+313,31,Male,Asian,Africa,24.9,0,0,3.31,284.3,43.8,0.85,Vegetarian,12.7,6,61.3
+314,26,Female,African,Oceania,25.1,1,0,3.27,357.9,84.9,0.78,Pescatarian,5.4,6,79.1
+315,73,Other,African,Asia,23.6,0,1,3.66,251.3,46.1,0.68,Omnivore,14.7,5,82.7
+316,47,Male,Hispanic,Africa,23.5,1,1,2.48,336.5,114.9,0.32,Vegetarian,37.7,8,60.7
+317,24,Female,Other,Africa,27.3,0,0,1.52,538.7,107.2,0.17,Omnivore,35.0,3,54.1
+318,50,Female,Caucasian,Europe,29.6,0,0,1.32,793.6,75.9,0.21,Pescatarian,8.8,3,51.6
+319,29,Female,Caucasian,Europe,20.3,0,1,1.44,695.1,98.3,0.55,Omnivore,46.4,5,79.4
+320,70,Male,Hispanic,North America,34.5,0,0,3.22,406.5,99.3,0.47,Pescatarian,39.9,5,64.3
+321,65,Other,Caucasian,Oceania,22.9,0,1,1.77,364.4,56.8,0.67,Omnivore,10.5,5,57.9
+322,77,Female,Caucasian,North America,19.6,0,1,2.61,373.7,47.3,0.82,Vegetarian,12.9,3,69.8
+323,69,Female,Asian,Africa,28.8,0,0,2.73,250.2,65.9,0.55,Pescatarian,42.1,5,98.5
+324,78,Male,Hispanic,Asia,30.2,0,0,1.26,658.9,116.9,0.84,Omnivore,41.7,6,94.9
+325,54,Other,Other,Africa,21.3,1,1,2.14,747.4,97.1,0.82,Pescatarian,24.1,2,99.3
+326,32,Other,Asian,Africa,22.0,1,0,1.67,689.3,100.0,0.85,Vegetarian,34.1,10,83.7
+327,77,Male,Other,Asia,18.9,0,0,3.0,391.5,55.0,0.28,Pescatarian,14.3,3,72.9
+328,77,Male,Asian,North America,23.4,0,0,0.74,657.3,117.7,0.26,Omnivore,35.9,10,97.3
+329,80,Male,Other,Oceania,24.4,0,0,2.79,244.8,77.7,0.49,Omnivore,41.0,5,75.2
+330,46,Male,Asian,Asia,32.7,0,0,1.08,407.3,45.2,0.87,Vegetarian,42.7,4,53.3
+331,76,Female,Caucasian,Africa,28.5,1,0,2.33,773.5,49.1,0.96,Vegetarian,17.4,5,54.5
+332,52,Other,Caucasian,North America,28.2,1,1,3.96,676.9,46.3,0.82,Vegetarian,19.6,9,87.9
+333,45,Female,Caucasian,Asia,27.4,0,0,3.65,677.9,102.5,0.14,Pescatarian,39.6,6,63.6
+334,80,Other,Other,Africa,27.9,0,0,2.02,289.3,76.6,0.29,Omnivore,15.9,1,69.2
+335,78,Male,Hispanic,Europe,27.3,0,1,1.56,590.0,89.1,0.19,Omnivore,16.8,3,77.7
+336,47,Female,Other,Europe,20.7,0,0,2.96,678.5,67.6,0.4,Vegetarian,20.1,6,70.9
+337,29,Female,Other,Oceania,23.6,0,1,0.58,252.8,112.6,0.51,Omnivore,33.3,1,61.5
+338,66,Male,Asian,North America,24.4,0,1,3.43,578.0,104.5,0.89,Vegetarian,39.2,1,70.7
+339,54,Other,Caucasian,Oceania,27.1,0,1,1.41,671.6,40.7,0.52,Vegetarian,44.9,1,86.7
+340,73,Male,African,Africa,34.1,1,0,3.73,651.7,50.1,0.73,Vegetarian,7.4,2,89.1
+341,70,Male,Caucasian,Africa,19.3,1,1,3.29,557.1,108.6,0.82,Vegetarian,11.9,9,72.1
+342,48,Female,Hispanic,Europe,23.4,1,0,3.23,332.0,61.9,0.68,Vegetarian,25.0,2,75.9
+343,48,Other,Hispanic,North America,20.0,0,0,3.69,211.3,40.5,1.0,Vegetarian,30.6,8,99.4
+344,41,Male,Other,Asia,24.7,0,1,1.22,539.9,63.3,0.53,Pescatarian,27.1,2,62.1
+345,23,Other,Caucasian,Europe,34.5,0,1,2.86,521.9,92.1,0.1,Pescatarian,19.0,6,63.6
+346,49,Male,Asian,Africa,22.5,0,1,1.65,519.8,77.5,0.39,Vegetarian,39.2,7,72.8
+347,69,Other,Asian,North America,28.4,0,0,3.59,351.3,42.8,0.47,Vegetarian,43.3,5,68.4
+348,50,Female,Asian,Oceania,20.5,0,0,1.8,251.1,82.3,0.32,Pescatarian,45.6,7,53.1
+349,63,Male,Hispanic,North America,19.0,1,1,3.62,332.0,109.0,0.1,Vegetarian,49.6,10,72.8
+350,60,Female,Asian,North America,33.6,1,0,3.56,258.9,57.3,0.86,Pescatarian,30.3,8,55.9
+351,42,Male,Caucasian,Africa,29.1,0,0,1.5,668.7,50.9,0.35,Vegetarian,5.1,1,73.3
+352,80,Other,Other,North America,31.7,1,1,1.85,443.0,91.1,0.73,Pescatarian,49.1,1,66.4
+353,72,Male,Hispanic,Europe,32.1,1,1,2.79,690.4,100.1,0.15,Omnivore,44.4,4,65.7
+354,69,Male,African,North America,31.6,1,1,1.46,236.8,46.3,0.92,Omnivore,19.3,5,96.3
+355,57,Other,African,Oceania,29.3,1,0,2.31,305.0,94.9,0.65,Vegetarian,42.0,10,53.8
+356,18,Other,Caucasian,Europe,33.2,1,1,2.66,258.4,44.7,0.22,Vegetarian,30.3,4,89.8
+357,71,Male,Hispanic,North America,27.2,0,1,3.41,418.8,77.7,0.56,Omnivore,30.7,5,89.1
+358,40,Male,Asian,Oceania,21.0,1,1,0.8,427.1,47.6,0.04,Pescatarian,14.6,2,80.1
+359,22,Male,Hispanic,North America,32.2,1,1,3.97,470.6,40.0,0.62,Omnivore,38.5,2,64.8
+360,60,Female,Other,Oceania,20.0,0,0,1.75,445.1,105.8,0.78,Pescatarian,27.8,3,91.0
+361,19,Other,Hispanic,Europe,28.3,1,1,3.92,635.2,102.4,0.45,Pescatarian,14.9,2,73.8
+362,43,Female,Caucasian,Africa,30.3,1,0,0.8,567.6,59.5,0.76,Pescatarian,29.2,1,87.9
+363,55,Other,Caucasian,Europe,32.9,0,0,2.88,391.3,86.4,0.41,Pescatarian,32.4,8,53.8
+364,53,Male,Caucasian,Oceania,31.3,0,1,3.68,667.6,52.3,0.48,Vegetarian,28.5,3,95.2
+365,58,Female,Other,Africa,32.5,0,0,3.92,696.3,106.8,0.59,Pescatarian,28.0,4,76.1
+366,40,Other,Other,Oceania,33.4,1,1,2.44,344.2,112.9,0.45,Omnivore,23.3,3,71.7
+367,32,Female,Hispanic,Europe,21.5,0,1,3.48,680.1,90.7,0.04,Omnivore,45.4,1,67.2
+368,42,Male,Other,Europe,30.2,0,0,1.72,625.0,102.6,0.84,Omnivore,8.0,2,64.8
+369,62,Female,Hispanic,Oceania,29.8,0,0,3.44,741.2,68.1,0.85,Omnivore,9.5,3,71.0
+370,41,Female,Asian,North America,20.3,1,1,1.06,555.2,117.8,0.46,Vegetarian,42.1,9,94.7
+371,56,Other,Asian,Asia,23.4,1,1,2.73,447.0,72.2,0.56,Omnivore,13.7,1,96.0
+372,20,Other,African,Europe,20.3,0,1,0.85,407.6,110.0,0.84,Omnivore,19.5,7,69.3
+373,48,Other,African,Europe,30.7,1,1,2.08,475.9,118.5,0.22,Pescatarian,6.2,8,71.7
+374,63,Male,Asian,Oceania,29.9,1,1,3.96,799.9,88.6,0.42,Pescatarian,34.8,3,84.8
+375,29,Female,Hispanic,Asia,24.2,0,0,3.64,255.9,102.8,0.77,Pescatarian,5.8,10,60.5
+376,46,Female,Caucasian,Europe,20.8,1,0,1.29,434.6,86.4,0.33,Omnivore,47.0,9,74.4
+377,43,Other,African,Oceania,19.5,1,0,2.86,345.3,65.4,0.8,Pescatarian,41.3,10,94.3
+378,69,Male,Hispanic,Oceania,21.3,0,0,2.45,359.4,108.6,0.23,Vegetarian,49.0,6,67.8
+379,26,Other,Asian,Asia,25.4,1,0,3.19,256.9,96.9,0.82,Vegetarian,34.7,2,96.7
+380,37,Female,African,Oceania,30.0,1,1,2.79,705.4,77.8,0.53,Vegetarian,40.4,10,91.7
+381,29,Female,Hispanic,North America,22.8,0,1,3.97,782.3,44.5,0.39,Pescatarian,38.6,9,87.8
+382,27,Male,Hispanic,North America,22.8,1,1,2.41,218.8,78.8,0.12,Pescatarian,23.5,1,67.4
+383,46,Other,Caucasian,Africa,19.0,1,0,1.03,343.8,81.0,0.4,Vegetarian,36.1,5,88.3
+384,18,Female,Other,Oceania,29.7,1,0,2.28,590.3,52.2,0.03,Pescatarian,22.3,9,78.5
+385,30,Male,Asian,Europe,20.6,0,0,1.11,696.6,110.3,0.63,Omnivore,32.3,1,87.6
+386,65,Male,African,Oceania,30.1,0,0,3.84,485.9,73.0,0.03,Pescatarian,17.8,2,88.9
+387,64,Male,Other,Oceania,33.4,0,1,1.9,243.6,114.3,0.91,Pescatarian,11.2,8,78.7
+388,73,Female,Other,Europe,30.6,0,0,2.73,673.4,87.7,0.75,Omnivore,21.1,9,55.3
+389,60,Male,Caucasian,Oceania,24.6,1,0,1.46,723.2,57.0,0.51,Omnivore,28.3,9,72.1
+390,48,Other,Other,Oceania,24.8,0,1,2.44,526.1,76.7,0.06,Omnivore,6.0,10,91.5
+391,47,Other,Asian,Europe,18.9,1,0,0.6,303.2,107.0,0.58,Pescatarian,31.4,1,88.3
+392,47,Female,Other,Africa,33.1,1,1,3.45,204.2,100.0,0.04,Omnivore,39.3,8,53.4
+393,48,Male,Caucasian,Asia,28.9,1,0,3.78,205.8,113.4,0.3,Pescatarian,30.8,1,85.4
+394,61,Other,Other,Asia,31.8,0,0,2.42,322.3,107.6,0.44,Pescatarian,22.6,4,99.5
+395,29,Other,African,Europe,23.2,0,1,2.15,522.4,75.7,0.34,Pescatarian,45.5,4,90.1
+396,26,Female,Caucasian,Africa,23.3,0,1,3.64,346.4,63.1,0.66,Omnivore,35.7,1,96.2
+397,22,Other,Caucasian,Europe,33.2,1,1,3.66,640.2,53.1,0.87,Pescatarian,38.0,1,76.4
+398,72,Other,Asian,North America,31.5,0,1,2.56,404.2,118.1,0.97,Pescatarian,30.6,6,76.2
+399,70,Male,Asian,North America,30.8,1,1,0.72,611.8,74.1,0.84,Pescatarian,10.9,3,52.4
+400,65,Male,African,Asia,18.6,1,0,3.24,347.9,84.7,0.62,Omnivore,9.0,7,51.9
+401,52,Male,Hispanic,Europe,19.0,1,0,1.65,379.6,54.5,0.29,Pescatarian,35.3,2,77.7
+402,24,Female,Caucasian,Africa,23.5,0,0,3.58,376.5,81.7,0.77,Pescatarian,47.9,1,89.1
+403,55,Other,Hispanic,Africa,22.8,1,1,2.15,793.8,108.1,0.58,Vegetarian,44.2,1,82.8
+404,69,Female,Asian,North America,25.9,0,1,1.04,276.1,84.7,0.87,Pescatarian,18.7,7,86.0
+405,56,Other,Other,Asia,34.0,0,1,2.77,263.1,96.4,0.29,Omnivore,16.0,7,59.4
+406,54,Other,Caucasian,Europe,32.3,0,0,2.19,494.0,46.9,0.28,Pescatarian,6.4,1,54.7
+407,33,Male,African,North America,28.0,1,0,1.54,275.4,116.2,0.31,Pescatarian,24.4,10,93.4
+408,74,Other,Other,Europe,32.2,1,0,3.72,221.3,85.3,0.2,Vegetarian,38.4,1,89.0
+409,29,Other,Hispanic,Oceania,24.5,0,1,0.6,574.8,76.6,0.34,Omnivore,12.1,10,96.2
+410,67,Female,African,Europe,32.0,0,0,2.02,559.5,64.0,0.78,Vegetarian,23.7,1,80.5
+411,44,Male,Asian,North America,18.5,1,0,1.59,684.7,84.1,0.41,Vegetarian,18.8,8,68.7
+412,26,Other,Other,Asia,21.2,1,0,1.16,324.9,115.3,0.35,Vegetarian,37.1,1,80.9
+413,61,Male,African,Asia,18.7,0,0,2.79,784.2,59.6,0.36,Pescatarian,31.4,8,59.8
+414,67,Female,Asian,Oceania,27.8,1,1,1.19,737.9,68.7,0.8,Omnivore,45.0,6,78.0
+415,55,Female,Caucasian,North America,28.8,1,0,3.33,769.2,111.7,0.82,Omnivore,9.4,2,95.4
+416,80,Other,Caucasian,Asia,30.0,1,0,2.5,578.7,102.8,0.71,Omnivore,47.9,7,93.5
+417,57,Male,Asian,Oceania,26.8,0,0,1.34,621.5,100.9,0.34,Vegetarian,24.2,4,60.0
+418,20,Male,African,Asia,20.3,1,0,2.13,246.0,45.4,0.01,Pescatarian,32.4,5,68.3
+419,28,Female,Other,Oceania,20.8,1,1,1.55,350.9,64.9,0.87,Pescatarian,26.1,4,98.7
+420,47,Female,African,Oceania,22.8,0,0,3.29,249.1,106.4,0.59,Vegetarian,12.3,2,66.1
+421,77,Other,African,Asia,21.0,0,0,2.03,672.6,60.6,0.64,Omnivore,41.5,6,60.4
+422,39,Female,Asian,Africa,19.1,0,1,3.14,621.6,88.0,0.96,Vegetarian,25.2,10,81.9
+423,29,Male,Other,North America,21.4,0,1,1.47,439.7,57.4,0.86,Pescatarian,28.7,7,60.7
+424,55,Male,Caucasian,Africa,23.7,1,1,0.94,269.1,106.3,0.25,Vegetarian,8.8,6,95.2
+425,20,Male,African,Africa,22.1,1,0,3.52,664.5,78.0,0.74,Omnivore,28.5,2,88.2
+426,46,Female,Hispanic,Oceania,27.1,1,1,3.96,510.5,96.0,0.26,Pescatarian,45.3,5,81.2
+427,26,Other,Other,Africa,25.9,0,0,3.82,345.0,57.4,0.3,Omnivore,49.6,5,51.7
+428,67,Male,Other,Europe,21.7,1,1,1.46,624.8,103.4,0.33,Pescatarian,40.3,4,86.9
+429,52,Other,African,Africa,30.0,1,0,3.99,452.9,90.5,0.29,Pescatarian,20.6,7,81.5
+430,54,Other,Caucasian,Europe,19.5,0,1,2.54,543.2,48.8,0.63,Vegetarian,9.4,7,93.4
+431,27,Male,Other,Europe,29.6,0,1,1.39,244.1,58.1,0.4,Omnivore,46.7,8,55.6
+432,31,Male,Other,Europe,32.5,1,0,2.21,243.6,45.2,0.24,Vegetarian,11.5,2,98.7
+433,52,Male,Asian,North America,29.7,0,1,0.58,204.8,71.8,0.6,Omnivore,33.3,2,61.6
+434,19,Male,Other,Africa,28.0,1,0,0.67,558.6,95.5,0.66,Omnivore,22.3,3,90.7
+435,31,Other,Other,North America,30.0,1,0,0.77,426.4,73.6,0.76,Omnivore,25.5,10,54.5
+436,25,Other,African,Africa,20.0,1,0,1.53,677.5,109.9,0.71,Vegetarian,25.7,8,76.8
+437,58,Female,Caucasian,Oceania,23.8,0,0,2.6,621.5,64.1,0.28,Pescatarian,6.4,8,69.5
+438,22,Male,Caucasian,Europe,24.5,0,0,2.19,550.8,93.9,0.04,Vegetarian,38.4,9,86.6
+439,24,Male,Hispanic,Africa,31.4,1,0,0.76,710.0,58.9,0.03,Pescatarian,14.2,10,57.5
+440,54,Other,African,Oceania,30.6,0,1,1.8,409.7,60.8,0.7,Vegetarian,10.9,5,96.8
+441,70,Female,Other,Asia,25.5,0,1,3.83,610.0,49.1,0.75,Vegetarian,10.8,4,64.6
+442,47,Female,Caucasian,Oceania,27.7,1,0,3.56,294.7,53.1,0.01,Pescatarian,32.4,9,63.4
+443,72,Female,Asian,Oceania,30.3,1,0,1.8,294.8,70.4,0.47,Pescatarian,30.3,3,67.9
+444,19,Other,African,North America,28.3,0,0,2.92,788.8,63.4,0.12,Vegetarian,12.7,2,72.2
+445,41,Male,Caucasian,Africa,33.4,0,0,1.82,585.2,108.7,0.23,Omnivore,35.9,6,74.6
+446,57,Other,Other,Asia,33.0,1,0,2.31,701.4,107.4,0.64,Vegetarian,40.6,7,97.8
+447,77,Other,Other,Asia,18.5,1,1,2.73,776.1,114.4,0.28,Omnivore,7.7,9,77.0
+448,53,Female,Asian,North America,22.2,0,0,2.16,404.1,118.8,0.86,Omnivore,6.7,10,77.6
+449,48,Male,Caucasian,North America,31.2,1,0,1.0,444.9,40.8,0.89,Pescatarian,34.0,4,61.5
+450,61,Female,Hispanic,Africa,32.5,1,1,2.68,717.8,43.2,0.84,Pescatarian,10.6,8,56.7
+451,67,Male,Caucasian,Africa,27.9,0,1,2.59,455.7,56.0,0.91,Pescatarian,21.3,1,61.8
+452,18,Other,African,Asia,19.9,0,1,1.83,779.0,89.9,0.91,Omnivore,40.8,4,52.0
+453,50,Male,Asian,Asia,34.2,1,0,1.69,274.9,111.8,0.44,Omnivore,31.1,8,66.6
+454,49,Other,Asian,Europe,31.6,1,1,3.37,386.7,91.2,0.73,Vegetarian,23.6,4,71.1
+455,18,Male,Caucasian,North America,19.5,0,1,3.48,763.3,91.6,0.16,Vegetarian,11.1,4,64.8
+456,23,Female,Caucasian,Asia,28.4,1,1,1.07,203.4,62.4,0.97,Vegetarian,35.0,7,73.3
+457,78,Other,Caucasian,Oceania,23.9,1,1,0.6,290.4,59.7,0.3,Pescatarian,11.3,8,65.9
+458,62,Female,Asian,Asia,27.8,0,1,2.53,768.6,65.3,0.18,Omnivore,46.1,8,82.1
+459,30,Female,Hispanic,North America,20.0,1,1,2.68,502.2,73.0,0.26,Pescatarian,8.2,8,97.7
+460,49,Female,Hispanic,Oceania,22.4,1,1,1.32,215.7,71.9,0.52,Pescatarian,7.6,7,88.0
+461,49,Male,Other,Asia,20.8,0,1,1.43,743.5,104.5,0.92,Omnivore,37.3,1,62.0
+462,74,Other,African,Oceania,24.1,1,0,3.12,662.7,55.5,0.16,Pescatarian,43.2,2,58.5
+463,42,Other,African,Asia,32.8,0,1,1.58,798.3,70.3,0.74,Omnivore,7.7,10,53.0
+464,58,Other,Other,Europe,18.5,1,1,3.11,562.1,85.4,0.7,Pescatarian,12.7,9,92.5
+465,47,Female,African,Africa,29.7,0,0,0.52,300.9,102.9,0.16,Vegetarian,44.0,2,51.4
+466,77,Male,Other,Europe,21.4,0,0,1.04,318.5,99.3,0.65,Pescatarian,50.0,1,60.0
+467,77,Male,Caucasian,Europe,27.2,0,1,3.55,782.6,84.2,0.02,Vegetarian,9.9,3,67.7
+468,29,Female,African,North America,32.3,0,1,3.2,335.2,69.0,0.87,Vegetarian,22.4,1,88.4
+469,22,Other,African,North America,26.6,0,1,3.02,606.5,53.9,0.83,Omnivore,45.4,1,81.3
+470,63,Female,Other,Europe,27.5,1,1,0.52,529.7,88.5,0.33,Pescatarian,44.5,7,52.5
+471,49,Female,African,Asia,32.2,1,1,3.52,382.7,82.6,0.01,Vegetarian,31.4,6,65.7
+472,56,Other,Caucasian,Asia,29.4,0,1,2.91,278.6,51.2,0.66,Omnivore,24.5,10,54.8
+473,45,Female,Hispanic,Africa,20.9,0,0,1.02,453.6,85.2,0.93,Pescatarian,15.5,6,62.5
+474,43,Female,Asian,Europe,18.8,0,0,2.56,528.7,109.0,0.21,Omnivore,14.7,10,82.6
+475,32,Male,African,Asia,25.5,1,1,3.27,403.2,83.7,0.91,Pescatarian,16.3,2,82.6
+476,73,Male,African,Asia,33.8,0,0,2.65,540.2,72.4,0.25,Vegetarian,21.9,1,70.6
+477,56,Male,Asian,Africa,31.2,0,1,1.98,654.3,110.3,0.52,Pescatarian,38.8,2,90.2
+478,74,Female,Hispanic,Europe,29.1,0,1,2.08,296.8,115.3,0.62,Vegetarian,10.2,5,69.1
+479,48,Female,Asian,North America,31.9,0,0,1.49,464.5,83.9,0.83,Vegetarian,18.6,10,73.7
+480,32,Male,Hispanic,Oceania,22.1,0,1,1.56,416.6,46.1,0.36,Vegetarian,14.0,10,79.3
+481,76,Female,Caucasian,North America,31.4,1,1,2.21,526.2,58.7,0.44,Omnivore,23.5,7,72.1
+482,53,Other,Asian,Europe,32.8,1,1,2.0,534.1,86.0,0.24,Vegetarian,16.4,9,75.5
+483,31,Male,African,Africa,19.9,1,1,0.85,669.6,104.0,0.97,Pescatarian,42.4,3,55.0
+484,76,Male,Caucasian,North America,30.4,0,1,2.73,502.5,54.1,0.05,Pescatarian,23.5,3,88.0
+485,26,Male,Caucasian,Oceania,27.9,0,0,2.2,587.6,110.5,0.23,Vegetarian,6.0,4,90.8
+486,64,Female,Asian,Oceania,24.4,0,1,0.98,560.5,77.4,0.64,Pescatarian,34.7,2,95.0
+487,23,Female,African,Africa,33.0,1,1,0.95,535.6,100.1,0.1,Omnivore,26.3,7,75.4
+488,18,Male,Other,North America,25.2,1,0,3.75,683.4,40.7,0.02,Pescatarian,9.0,10,73.0
+489,42,Other,Asian,Africa,26.5,1,0,3.39,328.1,62.6,0.81,Omnivore,43.7,4,63.2
+490,39,Other,Other,North America,21.5,1,0,3.47,259.0,115.7,0.06,Vegetarian,15.0,1,75.0
+491,30,Other,Hispanic,Africa,31.8,0,0,2.13,524.8,57.9,0.32,Omnivore,46.1,7,95.5
+492,31,Other,Hispanic,Oceania,30.9,1,1,0.87,308.3,61.6,0.44,Vegetarian,22.4,1,50.3
+493,40,Male,Hispanic,Asia,30.1,0,0,3.43,666.9,58.4,0.4,Pescatarian,49.8,8,91.6
+494,62,Female,African,Oceania,30.4,1,0,3.94,579.2,89.5,0.9,Pescatarian,16.4,9,84.6
+495,67,Female,Asian,Europe,19.4,0,0,2.36,715.4,83.8,0.47,Pescatarian,26.1,2,76.8
+496,20,Male,African,Asia,24.0,0,0,2.5,348.7,73.5,0.21,Omnivore,24.7,3,79.1
+497,31,Female,Hispanic,North America,33.5,0,0,3.48,249.9,40.9,0.82,Omnivore,42.5,9,98.4
+498,22,Other,Hispanic,North America,26.1,0,1,2.22,438.3,52.4,0.68,Vegetarian,18.3,9,99.3
+499,45,Male,Caucasian,North America,34.7,1,1,2.82,359.9,61.0,0.46,Omnivore,38.8,8,65.4
+500,72,Other,Hispanic,Oceania,28.9,0,1,3.72,300.9,114.2,0.59,Vegetarian,43.9,9,90.2
+501,38,Other,Hispanic,Europe,21.0,0,0,1.35,461.9,58.1,0.28,Vegetarian,19.6,8,52.2
+502,69,Male,Asian,Oceania,32.5,1,1,2.62,687.1,115.0,0.88,Pescatarian,20.0,9,56.9
+503,40,Female,Hispanic,Oceania,22.3,1,0,2.77,566.5,58.2,0.38,Pescatarian,34.0,7,57.2
+504,41,Female,Other,Asia,23.1,1,0,1.63,416.8,75.5,0.23,Omnivore,33.4,9,64.2
+505,56,Other,African,North America,33.5,0,0,1.12,593.8,62.5,0.0,Pescatarian,13.6,4,85.5
+506,27,Other,Hispanic,Oceania,26.6,0,0,2.05,601.8,48.8,0.06,Vegetarian,46.0,1,63.3
+507,58,Male,Asian,Africa,25.2,0,1,1.29,252.9,119.6,0.49,Vegetarian,33.6,2,57.8
+508,18,Female,African,Africa,20.3,1,0,2.04,521.7,59.0,0.08,Pescatarian,36.0,1,50.7
+509,29,Other,Caucasian,Europe,25.2,0,1,1.84,314.4,84.6,0.32,Vegetarian,34.1,5,73.8
+510,78,Other,African,Asia,31.1,1,1,2.87,218.8,96.0,0.88,Omnivore,16.9,4,81.5
+511,29,Female,Caucasian,Africa,18.7,0,1,2.43,307.6,54.4,0.06,Vegetarian,38.3,3,74.3
+512,52,Female,Hispanic,North America,33.0,0,1,1.63,721.2,59.8,0.95,Pescatarian,48.2,6,53.9
+513,39,Female,Asian,Oceania,25.9,1,0,3.1,201.3,59.9,0.21,Vegetarian,40.1,9,79.5
+514,25,Other,Asian,Asia,22.1,1,1,1.75,261.8,48.0,0.82,Vegetarian,23.1,10,69.2
+515,49,Male,Asian,Oceania,27.9,1,1,1.3,310.0,105.7,0.25,Vegetarian,22.7,2,53.4
+516,51,Female,African,Europe,19.1,1,1,1.83,251.9,52.5,0.36,Omnivore,31.0,3,63.6
+517,20,Male,Asian,Oceania,30.2,1,0,3.96,243.7,41.0,0.92,Vegetarian,37.7,5,51.5
+518,54,Other,Other,North America,24.1,1,1,2.41,287.6,117.9,0.53,Omnivore,17.1,7,69.4
+519,56,Other,Hispanic,Asia,21.6,1,1,0.6,331.0,52.4,0.16,Omnivore,45.8,8,56.9
+520,27,Female,Hispanic,Europe,33.1,1,1,2.46,653.1,40.4,0.94,Pescatarian,36.8,3,82.6
+521,34,Male,Caucasian,Oceania,33.8,1,0,3.05,224.3,53.2,0.36,Pescatarian,33.6,10,79.7
+522,27,Female,Hispanic,Africa,27.7,0,1,3.1,220.3,62.4,0.35,Pescatarian,11.4,2,76.5
+523,32,Male,Hispanic,Africa,21.7,0,1,0.97,412.5,46.1,0.78,Omnivore,7.6,8,61.3
+524,38,Male,Hispanic,Europe,27.2,1,1,1.26,289.9,85.4,0.91,Pescatarian,44.8,8,84.8
+525,19,Male,Caucasian,Africa,31.3,1,0,1.66,504.4,42.7,0.27,Vegetarian,41.6,3,62.4
+526,71,Male,Caucasian,Africa,34.7,1,1,1.23,631.1,99.4,0.15,Pescatarian,48.2,6,88.2
+527,21,Male,Hispanic,Europe,25.5,0,0,3.8,286.2,59.7,0.28,Pescatarian,25.2,2,90.0
+528,19,Male,Asian,Europe,29.9,1,0,3.55,579.1,109.9,0.21,Omnivore,10.2,10,87.5
+529,37,Female,Caucasian,Africa,26.6,0,1,2.01,526.4,91.6,0.99,Pescatarian,38.9,2,82.9
+530,38,Male,Other,Europe,29.0,1,0,2.32,581.4,100.1,0.24,Omnivore,9.8,2,55.7
+531,34,Female,Hispanic,North America,34.1,1,0,1.1,433.5,83.9,0.86,Omnivore,5.2,8,71.4
+532,27,Other,Hispanic,Africa,21.5,0,0,3.37,724.9,93.5,0.07,Vegetarian,10.5,9,62.8
+533,63,Other,Other,North America,23.9,1,0,2.75,378.1,40.4,0.13,Vegetarian,9.4,1,65.0
+534,34,Female,Caucasian,Europe,20.7,1,1,3.2,410.9,91.8,0.78,Pescatarian,7.1,7,71.8
+535,68,Other,Hispanic,Africa,21.5,0,1,3.63,651.7,57.4,0.47,Omnivore,35.5,6,74.0
+536,33,Male,Hispanic,Oceania,32.6,1,1,3.13,368.1,96.6,0.05,Vegetarian,44.7,2,58.8
+537,52,Female,Other,Oceania,21.4,0,1,2.14,219.1,94.2,0.19,Omnivore,49.4,1,50.9
+538,35,Male,Hispanic,North America,21.6,0,1,1.91,287.0,88.7,0.96,Omnivore,26.9,2,87.0
+539,63,Male,Other,Asia,34.9,1,0,3.23,284.1,67.8,0.42,Vegetarian,49.6,7,97.5
+540,58,Male,Caucasian,Africa,27.7,1,0,1.43,242.2,89.1,0.67,Vegetarian,37.5,3,85.4
+541,21,Male,Asian,Asia,24.5,1,1,3.96,687.0,112.9,0.01,Vegetarian,23.8,7,59.5
+542,35,Male,Caucasian,Africa,22.3,1,0,3.1,316.1,40.9,0.86,Pescatarian,48.5,8,77.9
+543,40,Other,Caucasian,North America,20.2,1,1,1.06,415.7,85.6,0.69,Vegetarian,29.5,5,62.7
+544,72,Female,Hispanic,North America,19.1,0,0,1.34,406.1,59.7,0.53,Pescatarian,26.4,7,89.9
+545,38,Female,Caucasian,Europe,33.9,1,1,3.19,300.1,58.8,0.99,Pescatarian,22.7,9,58.4
+546,42,Male,Other,Africa,29.7,1,0,1.95,397.8,97.2,0.26,Pescatarian,19.5,8,95.5
+547,59,Female,Caucasian,North America,22.6,0,0,2.09,346.4,100.9,0.51,Pescatarian,39.1,10,89.6
+548,79,Male,Caucasian,Asia,20.6,1,0,3.31,488.7,54.0,0.03,Pescatarian,21.4,1,61.9
+549,27,Female,African,Asia,27.3,0,0,2.39,547.8,113.9,0.15,Omnivore,19.5,2,71.7
+550,27,Male,Caucasian,Oceania,19.5,0,1,3.41,445.5,40.7,0.88,Pescatarian,9.3,1,79.5
+551,55,Male,Asian,North America,25.1,0,1,1.35,645.8,104.4,0.97,Vegetarian,22.2,2,87.8
+552,69,Female,Hispanic,North America,29.5,1,0,1.01,779.1,54.2,0.34,Omnivore,39.4,8,79.4
+553,59,Other,Caucasian,Asia,30.1,0,1,1.71,489.9,73.5,0.75,Omnivore,42.5,4,59.9
+554,33,Female,Asian,Oceania,32.3,0,1,0.74,668.9,87.7,0.17,Omnivore,47.6,8,79.7
+555,76,Other,Other,Asia,26.6,1,1,2.39,371.6,103.9,0.58,Vegetarian,6.5,2,56.3
+556,64,Other,Other,Oceania,20.3,0,1,1.18,494.6,100.7,0.03,Omnivore,24.1,9,73.4
+557,57,Other,Other,Asia,25.4,1,0,2.84,490.3,81.8,0.05,Vegetarian,20.2,7,73.0
+558,64,Male,Hispanic,Oceania,22.6,0,0,1.54,483.8,78.6,0.04,Omnivore,20.9,10,59.9
+559,55,Male,Hispanic,Oceania,24.1,1,1,3.6,523.9,102.3,0.5,Vegetarian,15.8,10,84.7
+560,18,Other,Other,Europe,20.3,1,1,1.56,580.3,56.9,0.95,Omnivore,15.3,1,87.7
+561,70,Female,Other,Europe,33.4,0,0,2.64,627.7,92.4,0.74,Vegetarian,42.9,9,85.8
+562,78,Female,African,Asia,30.8,1,0,0.83,748.6,46.3,0.01,Pescatarian,33.3,2,75.4
+563,73,Other,Hispanic,Europe,29.4,1,0,2.95,604.1,89.4,0.88,Vegetarian,34.4,3,76.5
+564,45,Male,African,Oceania,21.5,1,1,2.3,612.0,40.7,0.07,Omnivore,6.4,9,51.8
+565,59,Female,Asian,Africa,34.2,1,1,1.26,424.1,61.6,0.48,Vegetarian,13.9,2,90.7
+566,74,Male,Asian,Africa,32.5,0,0,1.03,542.6,62.7,0.84,Pescatarian,49.8,3,61.1
+567,36,Female,Asian,Africa,26.9,1,1,0.52,581.9,63.7,0.85,Vegetarian,43.3,1,67.6
+568,54,Female,Asian,Europe,24.6,0,1,2.04,562.1,99.0,0.66,Omnivore,41.1,5,67.4
+569,75,Other,Hispanic,North America,29.4,1,1,3.39,620.9,86.0,0.17,Vegetarian,16.5,2,77.7
+570,64,Male,Other,Europe,22.8,0,1,3.04,672.0,116.9,0.44,Pescatarian,14.9,4,73.7
+571,31,Female,Caucasian,Oceania,24.2,0,1,1.65,774.3,89.6,0.28,Vegetarian,18.6,3,71.7
+572,21,Female,Other,Asia,26.3,1,1,3.38,544.8,119.5,0.41,Vegetarian,41.1,3,85.2
+573,47,Male,African,Africa,19.2,0,0,2.74,230.7,59.9,0.79,Vegetarian,26.2,9,95.5
+574,70,Female,Asian,Africa,20.6,1,1,1.73,779.7,108.6,0.34,Vegetarian,35.7,2,62.5
+575,49,Female,Asian,Europe,22.2,1,1,2.97,797.1,97.7,0.96,Vegetarian,46.6,8,61.3
+576,38,Male,Asian,Oceania,25.4,0,1,2.0,216.5,106.8,0.57,Vegetarian,32.0,9,85.9
+577,46,Other,Asian,Asia,28.4,0,1,0.54,465.0,110.2,0.96,Pescatarian,12.2,5,60.6
+578,46,Male,Asian,Asia,28.7,1,1,2.82,610.0,82.0,0.11,Omnivore,47.7,7,62.7
+579,74,Other,Caucasian,Africa,21.9,0,0,3.12,597.6,107.1,0.68,Vegetarian,37.7,3,83.8
+580,36,Female,African,Africa,28.4,0,0,2.58,575.8,70.9,0.52,Pescatarian,19.7,5,71.4
+581,35,Male,African,Europe,19.7,0,1,1.21,744.3,48.2,0.17,Pescatarian,34.1,7,57.2
+582,63,Male,African,Africa,24.5,0,0,0.6,328.3,101.8,0.65,Vegetarian,31.2,9,88.3
+583,78,Female,Asian,Africa,23.4,0,1,3.59,379.0,82.3,0.65,Vegetarian,5.9,8,52.7
+584,39,Female,Caucasian,Europe,19.2,0,1,1.44,601.7,118.9,0.47,Pescatarian,49.4,7,78.6
+585,24,Male,Other,North America,31.2,1,1,1.81,298.0,73.7,0.3,Pescatarian,27.1,8,57.2
+586,61,Other,Hispanic,Asia,32.8,0,0,1.16,565.7,61.6,0.02,Vegetarian,9.4,5,85.4
+587,22,Male,Hispanic,Africa,21.7,0,1,0.7,265.0,117.8,0.69,Pescatarian,25.2,4,67.5
+588,33,Male,Caucasian,Asia,18.9,1,0,1.54,362.2,80.6,0.5,Pescatarian,46.5,1,71.2
+589,31,Female,Hispanic,Asia,29.4,0,0,1.31,574.0,68.7,0.16,Vegetarian,18.9,6,52.5
+590,75,Male,Hispanic,North America,20.3,1,0,0.59,258.3,115.7,0.35,Omnivore,48.1,2,78.3
+591,77,Other,Asian,Asia,20.5,1,1,3.83,212.6,97.0,0.64,Pescatarian,16.0,5,90.9
+592,62,Other,Other,Oceania,28.4,0,0,3.64,737.9,40.1,0.53,Pescatarian,36.5,8,96.4
+593,27,Female,Hispanic,Africa,26.7,0,1,2.76,236.8,97.7,0.69,Omnivore,35.8,8,52.7
+594,58,Other,Asian,Europe,34.2,1,1,0.6,552.9,78.7,0.98,Pescatarian,10.7,10,91.7
+595,46,Other,African,Africa,24.0,1,0,2.22,525.3,79.1,0.01,Omnivore,12.3,4,97.3
+596,58,Other,Other,Africa,32.5,0,0,0.81,567.0,85.6,0.95,Vegetarian,45.9,6,71.3
+597,71,Female,Other,Asia,23.5,1,0,2.16,284.9,54.0,0.36,Pescatarian,25.8,8,96.5
+598,65,Male,African,Asia,29.8,1,0,3.54,346.0,90.2,0.92,Vegetarian,42.9,2,52.8
+599,75,Other,Other,Oceania,34.1,1,1,1.15,221.5,60.6,0.04,Pescatarian,22.0,3,78.9
+600,69,Female,Other,Asia,29.0,0,0,2.95,768.7,110.5,0.48,Omnivore,25.8,4,68.5
+601,73,Other,Caucasian,North America,28.5,0,0,3.43,231.6,101.1,0.63,Omnivore,21.0,10,82.0
+602,76,Other,Hispanic,Oceania,32.7,0,1,2.3,513.6,74.4,0.52,Vegetarian,24.5,7,88.5
+603,79,Female,Hispanic,Europe,32.5,0,1,0.89,730.3,118.6,0.34,Vegetarian,23.8,3,53.2
+604,54,Female,Asian,Europe,32.0,1,0,1.02,726.7,117.2,0.24,Pescatarian,11.6,5,67.7
+605,58,Female,African,Europe,22.6,0,1,3.9,499.0,105.0,0.71,Omnivore,13.3,2,60.0
+606,73,Other,Hispanic,North America,27.3,0,1,0.96,324.0,69.6,0.68,Pescatarian,16.5,2,59.1
+607,77,Female,Caucasian,Europe,25.3,1,0,2.54,419.9,93.1,0.46,Pescatarian,41.2,3,83.2
+608,71,Other,Other,Europe,30.3,0,1,3.25,366.3,71.6,0.57,Vegetarian,16.0,2,99.5
+609,63,Male,Caucasian,North America,32.6,0,1,2.42,351.8,97.7,0.44,Omnivore,39.0,8,71.3
+610,43,Male,Other,Europe,25.4,1,0,3.45,451.7,54.8,0.46,Pescatarian,13.8,5,69.1
+611,36,Female,Other,Africa,31.4,0,0,2.82,711.2,85.0,0.58,Vegetarian,19.3,7,71.0
+612,33,Male,Caucasian,Asia,26.0,0,1,0.81,313.1,56.3,0.17,Omnivore,27.9,6,51.0
+613,39,Female,Caucasian,North America,22.7,1,1,3.44,502.2,44.1,0.26,Pescatarian,41.9,6,84.9
+614,24,Male,Hispanic,Europe,29.4,0,0,2.53,506.2,49.6,0.2,Vegetarian,47.6,10,54.7
+615,58,Female,Asian,Europe,29.1,0,0,3.45,347.9,95.9,0.42,Pescatarian,32.5,9,67.7
+616,56,Male,Asian,North America,27.4,0,1,2.58,468.7,107.5,0.49,Omnivore,16.7,2,52.1
+617,36,Female,Hispanic,Asia,27.3,0,0,3.26,328.8,112.2,0.61,Vegetarian,17.1,4,80.0
+618,32,Male,Caucasian,Asia,19.9,1,1,2.79,419.8,107.3,0.81,Pescatarian,12.5,5,73.3
+619,75,Female,Asian,Europe,22.4,1,0,2.15,500.6,54.7,0.56,Pescatarian,20.2,7,51.7
+620,46,Female,Other,North America,22.9,1,0,2.73,573.9,113.5,0.35,Vegetarian,46.0,10,92.0
+621,18,Male,Other,Oceania,33.9,1,1,2.47,445.5,97.5,0.87,Pescatarian,35.8,2,50.5
+622,73,Female,Other,Asia,29.9,0,0,2.29,552.2,91.5,0.48,Vegetarian,38.5,8,61.0
+623,33,Female,Hispanic,Europe,29.0,0,1,2.84,322.7,87.2,0.24,Pescatarian,46.6,4,76.9
+624,27,Female,Hispanic,North America,23.8,0,0,3.08,418.1,76.4,0.36,Pescatarian,45.1,4,76.5
+625,64,Other,African,Oceania,26.6,0,1,1.3,538.6,84.4,0.95,Omnivore,28.5,6,80.5
+626,52,Other,African,Europe,31.3,1,1,3.24,310.8,63.7,0.62,Vegetarian,27.8,4,92.5
+627,61,Other,Other,Africa,29.0,1,1,3.13,238.6,73.2,0.1,Omnivore,14.5,10,72.8
+628,74,Other,African,Africa,26.6,0,0,1.96,463.2,104.5,0.09,Omnivore,32.1,2,66.8
+629,41,Other,Other,North America,26.2,0,1,1.09,649.3,47.3,0.99,Vegetarian,9.1,9,79.2
+630,27,Male,African,Europe,18.9,0,1,1.38,216.3,117.5,0.02,Vegetarian,12.6,4,62.3
+631,18,Female,Caucasian,North America,18.6,1,0,1.45,621.2,54.1,0.99,Pescatarian,33.6,4,74.4
+632,60,Other,Hispanic,Africa,25.1,1,1,3.73,635.8,44.4,0.68,Omnivore,19.0,7,99.3
+633,45,Other,Caucasian,Oceania,31.7,0,1,1.52,742.4,107.1,0.49,Vegetarian,29.6,7,84.2
+634,21,Male,Hispanic,North America,31.2,1,1,0.85,634.7,43.5,0.81,Pescatarian,13.7,6,50.8
+635,76,Male,Asian,Asia,21.5,0,0,0.79,683.0,105.8,0.04,Pescatarian,13.2,7,58.2
+636,66,Male,Asian,Africa,24.5,0,0,2.39,415.4,52.0,0.31,Vegetarian,36.7,6,74.0
+637,38,Other,Hispanic,Oceania,20.0,1,0,1.5,310.9,90.0,0.98,Omnivore,20.5,8,98.0
+638,62,Male,African,Europe,31.1,1,1,0.72,579.0,112.9,0.79,Pescatarian,42.6,4,65.9
+639,66,Other,Other,Oceania,33.6,1,1,3.57,407.5,89.6,0.51,Pescatarian,22.9,10,55.3
+640,67,Male,Other,Europe,25.7,0,0,2.62,288.4,105.5,0.01,Vegetarian,39.6,3,99.5
+641,62,Female,Caucasian,Africa,34.4,1,0,2.12,474.4,62.5,0.41,Pescatarian,44.4,10,57.7
+642,69,Female,Hispanic,Asia,31.0,0,0,2.63,327.1,46.8,0.75,Vegetarian,45.1,10,53.3
+643,78,Male,African,Europe,32.3,0,0,2.6,530.8,54.1,0.65,Pescatarian,11.5,6,63.5
+644,26,Other,Other,Asia,32.2,1,1,3.19,217.5,50.9,0.17,Vegetarian,43.9,9,62.2
+645,21,Other,Other,Asia,26.7,0,1,1.67,689.9,119.4,0.81,Omnivore,41.1,1,59.1
+646,54,Other,Hispanic,Europe,29.6,1,1,1.1,274.7,103.6,0.71,Vegetarian,37.9,6,68.3
+647,63,Other,Other,Oceania,21.0,0,0,3.03,793.3,93.5,0.06,Omnivore,19.8,9,72.1
+648,59,Female,African,Africa,33.1,0,1,3.69,739.2,42.6,0.14,Pescatarian,8.9,6,87.3
+649,52,Other,Asian,Asia,24.1,1,1,2.79,551.2,50.0,0.19,Pescatarian,6.3,5,62.0
+650,67,Female,Caucasian,Asia,33.1,0,0,3.95,641.6,67.9,0.41,Pescatarian,37.6,6,64.8
+651,51,Female,African,Europe,32.5,1,0,2.01,778.6,99.4,0.76,Vegetarian,15.5,9,81.2
+652,54,Other,Caucasian,Asia,30.1,0,0,2.44,422.7,46.8,0.67,Omnivore,41.0,7,54.9
+653,24,Other,Hispanic,North America,25.8,1,0,1.51,291.1,54.6,0.24,Omnivore,30.1,9,53.9
+654,77,Other,African,Oceania,21.1,1,0,3.1,495.3,57.1,0.32,Pescatarian,38.4,4,82.4
+655,38,Other,Caucasian,Africa,27.5,0,0,2.02,280.3,99.5,0.33,Pescatarian,48.6,6,78.1
+656,35,Male,Hispanic,Asia,26.2,1,1,3.89,322.6,58.3,0.95,Vegetarian,31.8,1,63.2
+657,76,Male,Other,North America,20.6,0,1,0.81,759.7,96.7,0.39,Vegetarian,14.3,1,79.4
+658,40,Male,African,Oceania,26.5,0,0,0.89,675.3,53.3,0.48,Pescatarian,34.5,10,87.1
+659,75,Male,Hispanic,North America,20.5,1,0,3.84,553.0,48.8,0.39,Pescatarian,26.0,4,92.3
+660,46,Other,Caucasian,Europe,32.7,1,1,3.76,435.7,82.0,0.53,Vegetarian,15.0,10,96.4
+661,53,Male,Caucasian,North America,25.9,1,0,3.35,442.0,96.2,0.23,Pescatarian,31.5,7,64.1
+662,29,Female,Hispanic,Asia,25.0,0,0,3.5,600.3,55.8,0.42,Vegetarian,32.2,8,89.9
+663,64,Male,Caucasian,Africa,19.0,1,0,2.14,522.4,53.3,0.39,Omnivore,25.3,10,95.1
+664,70,Other,Hispanic,Africa,20.1,0,1,1.7,415.4,109.8,0.56,Vegetarian,10.1,3,95.9
+665,74,Other,Asian,Europe,27.9,1,1,3.0,339.3,114.5,0.91,Pescatarian,34.3,2,92.9
+666,49,Female,Other,North America,22.4,0,0,1.13,571.7,46.6,0.77,Pescatarian,29.7,3,60.6
+667,29,Male,Asian,Asia,33.4,0,1,3.08,377.7,115.0,0.86,Vegetarian,36.2,3,51.3
+668,28,Other,African,Africa,28.0,0,0,2.43,278.2,85.0,0.21,Pescatarian,37.2,7,64.3
+669,28,Other,African,North America,19.3,0,0,0.79,685.0,110.7,0.43,Vegetarian,20.6,6,80.2
+670,76,Female,Caucasian,Oceania,19.2,1,0,2.78,551.2,91.7,0.44,Omnivore,34.1,2,50.1
+671,29,Female,African,Africa,23.6,1,0,3.79,464.5,46.3,0.86,Vegetarian,31.6,9,62.0
+672,73,Other,Other,North America,24.2,0,1,2.26,792.9,66.4,0.78,Vegetarian,23.3,6,79.6
+673,39,Female,Other,Africa,34.9,0,1,1.57,760.2,76.5,0.22,Pescatarian,33.2,1,80.6
+674,65,Other,Asian,Oceania,30.2,1,0,1.87,464.6,97.5,0.99,Vegetarian,44.7,1,58.6
+675,47,Other,Asian,Asia,23.0,1,0,2.97,441.3,97.0,0.09,Pescatarian,30.6,2,52.8
+676,77,Male,African,North America,24.2,1,1,2.75,270.0,116.9,0.84,Omnivore,45.4,3,93.7
+677,36,Female,Other,Europe,25.9,1,1,3.23,460.2,75.3,0.51,Vegetarian,13.8,6,69.4
+678,52,Other,Asian,Africa,34.1,0,1,2.43,255.6,103.9,0.75,Vegetarian,34.8,9,61.8
+679,30,Other,Asian,Asia,19.9,1,0,3.03,350.2,54.5,0.05,Omnivore,9.1,1,83.1
+680,49,Other,African,Oceania,19.6,0,0,2.47,465.7,65.8,0.41,Vegetarian,34.5,5,93.5
+681,29,Female,Hispanic,Asia,34.0,0,1,0.64,269.6,106.1,0.01,Omnivore,8.9,3,62.1
+682,21,Other,Other,Oceania,26.3,0,1,3.04,564.5,69.9,0.18,Omnivore,34.3,7,63.5
+683,31,Male,Other,Africa,25.2,1,1,3.97,302.2,45.1,0.71,Pescatarian,29.2,3,87.7
+684,63,Female,Caucasian,Oceania,25.9,0,1,3.63,459.6,118.5,0.74,Omnivore,37.6,3,66.8
+685,23,Female,Hispanic,Africa,30.7,1,0,3.07,204.7,111.6,0.47,Omnivore,6.8,8,62.2
+686,49,Female,Caucasian,Asia,27.9,1,1,3.27,687.7,119.6,0.48,Vegetarian,25.1,6,78.4
+687,18,Other,Hispanic,Oceania,25.6,0,0,3.3,758.9,52.5,0.47,Pescatarian,24.7,10,52.1
+688,64,Male,Hispanic,Asia,26.6,0,1,1.09,256.6,92.8,0.7,Omnivore,24.7,4,79.6
+689,62,Female,Caucasian,Africa,31.8,0,0,1.52,602.3,110.6,0.52,Vegetarian,32.3,6,69.3
+690,21,Other,Caucasian,Africa,28.7,1,0,0.64,332.8,77.3,0.46,Pescatarian,46.8,9,87.7
+691,63,Other,Other,Oceania,23.8,1,1,1.81,745.6,69.3,0.53,Pescatarian,7.1,5,88.3
+692,47,Other,Other,Asia,28.9,1,0,3.21,539.2,67.8,0.37,Omnivore,46.8,8,59.2
+693,77,Male,Asian,Oceania,33.6,0,0,1.46,235.3,96.7,0.01,Pescatarian,20.0,1,69.6
+694,75,Male,Other,Europe,31.2,1,1,0.52,549.0,103.1,0.86,Pescatarian,30.1,6,66.1
+695,78,Female,Caucasian,Africa,27.3,1,0,1.16,570.7,65.5,0.33,Vegetarian,44.2,8,67.2
+696,52,Other,Asian,Africa,25.7,1,1,2.13,521.1,73.4,0.67,Omnivore,20.9,9,84.0
+697,53,Other,African,Africa,21.3,0,1,0.6,319.6,112.3,0.53,Omnivore,29.0,8,59.1
+698,20,Male,Asian,Europe,29.2,1,1,2.55,243.9,74.5,0.65,Vegetarian,6.9,9,56.5
+699,54,Male,African,Oceania,34.6,1,1,0.61,763.1,115.7,0.24,Omnivore,49.5,9,77.2
+700,60,Female,Caucasian,Africa,34.6,1,1,2.1,713.4,116.8,0.84,Vegetarian,10.2,5,93.7
+701,27,Female,Other,Oceania,33.5,0,1,3.92,514.5,61.7,0.43,Pescatarian,19.2,8,66.3
+702,29,Female,African,Europe,20.5,0,1,2.19,341.5,115.7,0.94,Vegetarian,35.9,10,54.7
+703,56,Female,Asian,Africa,19.8,1,0,0.59,356.0,99.8,0.68,Pescatarian,10.3,4,77.4
+704,22,Male,Other,Africa,33.7,1,0,2.55,673.1,50.7,0.15,Vegetarian,37.8,6,66.4
+705,46,Other,African,Africa,31.9,1,0,3.06,255.4,110.8,0.32,Omnivore,10.6,2,81.8
+706,38,Female,Other,Africa,33.5,0,1,1.96,724.2,42.3,0.32,Vegetarian,43.2,8,84.7
+707,58,Female,Asian,Africa,27.3,0,0,0.51,325.7,45.7,0.21,Pescatarian,35.9,4,85.4
+708,68,Other,Asian,Oceania,29.6,1,1,1.32,521.5,87.7,0.19,Pescatarian,21.3,6,60.1
+709,19,Male,Asian,Asia,26.1,0,0,3.37,264.9,49.0,0.59,Omnivore,13.4,3,93.4
+710,31,Female,Other,Europe,19.8,0,1,1.34,699.1,48.9,0.22,Omnivore,14.5,8,60.5
+711,58,Male,African,Asia,25.7,1,1,3.15,564.2,41.3,0.11,Pescatarian,39.7,5,53.8
+712,29,Other,Caucasian,Oceania,26.6,0,0,3.94,209.4,114.2,0.37,Vegetarian,33.3,3,94.0
+713,50,Female,Hispanic,Asia,34.3,1,0,3.67,717.9,84.8,0.95,Vegetarian,40.7,6,90.0
+714,43,Male,Caucasian,Asia,25.5,0,0,0.99,537.5,74.7,0.73,Omnivore,13.9,1,91.0
+715,26,Male,African,Asia,34.8,1,1,0.82,627.0,118.5,0.04,Omnivore,43.8,6,84.7
+716,68,Female,Asian,Europe,34.7,1,0,1.04,650.9,40.0,0.0,Omnivore,41.0,10,64.2
+717,23,Other,Hispanic,Europe,21.0,0,1,3.44,318.7,82.1,0.66,Vegetarian,40.5,10,70.9
+718,29,Female,African,Asia,26.7,0,0,0.82,204.3,52.1,0.92,Omnivore,19.7,9,80.8
+719,37,Other,Hispanic,North America,30.0,1,0,1.29,470.6,98.0,0.19,Omnivore,31.7,2,62.5
+720,25,Female,African,Asia,23.7,0,1,2.88,732.0,44.5,0.69,Vegetarian,42.3,5,78.2
+721,33,Male,Hispanic,Africa,32.0,1,1,1.0,260.5,58.2,0.7,Pescatarian,35.8,3,56.2
+722,52,Female,Hispanic,Europe,33.0,1,0,3.69,565.8,95.8,0.35,Pescatarian,40.9,10,82.5
+723,39,Male,African,Europe,26.5,1,1,3.23,586.2,61.8,0.57,Omnivore,6.9,8,85.6
+724,64,Male,Caucasian,Europe,25.2,0,0,2.19,201.1,44.2,0.75,Vegetarian,48.3,9,99.8
+725,56,Male,Hispanic,North America,34.6,1,1,2.26,233.0,112.8,0.7,Omnivore,49.0,9,82.6
+726,38,Male,African,Asia,28.0,0,1,2.52,628.7,104.7,0.1,Vegetarian,14.7,8,95.3
+727,73,Other,Caucasian,Africa,31.9,0,1,2.27,488.7,60.4,0.41,Pescatarian,8.4,7,71.7
+728,42,Female,Asian,Oceania,33.2,0,1,1.21,201.1,74.4,0.87,Omnivore,46.9,4,60.4
+729,49,Male,Hispanic,North America,21.0,0,0,1.33,763.2,87.4,0.45,Pescatarian,19.1,1,88.6
+730,33,Male,Other,Africa,21.8,0,0,3.97,503.5,40.9,0.34,Pescatarian,10.2,8,65.4
+731,53,Female,African,Oceania,20.2,1,1,1.34,736.6,68.4,0.61,Omnivore,34.7,5,91.0
+732,18,Male,Other,North America,34.0,0,0,3.48,545.6,61.2,0.29,Vegetarian,39.9,10,61.6
+733,35,Male,Hispanic,Africa,25.0,0,0,3.88,299.0,119.3,0.86,Pescatarian,9.5,5,89.0
+734,29,Other,Caucasian,North America,24.2,0,0,2.48,316.8,119.4,0.95,Vegetarian,27.1,4,74.9
+735,64,Female,Other,Europe,18.6,1,1,3.33,617.6,71.1,0.02,Omnivore,20.3,8,65.3
+736,72,Male,Asian,Africa,19.7,1,1,3.38,285.7,114.7,0.73,Pescatarian,11.9,1,62.9
+737,72,Male,Caucasian,Asia,29.0,0,0,3.44,776.0,90.0,0.77,Vegetarian,34.9,9,54.4
+738,70,Male,African,Oceania,21.4,0,1,2.85,324.9,110.1,0.28,Vegetarian,18.0,1,50.7
+739,62,Female,Other,Africa,25.2,1,1,3.75,601.3,115.9,0.71,Vegetarian,26.5,4,72.3
+740,41,Male,Caucasian,Europe,19.4,1,1,1.91,262.7,86.7,0.36,Vegetarian,13.8,4,67.9
+741,21,Male,African,Oceania,32.4,0,1,1.48,753.7,115.8,0.13,Pescatarian,17.7,1,95.9
+742,38,Female,Asian,Asia,29.5,1,0,0.9,474.5,102.4,0.95,Vegetarian,28.4,7,78.5
+743,44,Male,Asian,Oceania,20.6,0,0,2.29,333.9,118.1,0.72,Omnivore,7.0,2,72.0
+744,20,Other,African,Africa,22.0,1,0,3.37,693.4,41.0,0.68,Pescatarian,30.5,6,77.3
+745,72,Female,Hispanic,Oceania,30.7,1,1,3.81,703.1,108.3,0.07,Pescatarian,45.6,8,82.4
+746,79,Other,Asian,Europe,32.6,1,1,3.47,201.7,82.6,0.22,Pescatarian,17.6,1,81.6
+747,60,Other,Other,Oceania,33.0,0,1,2.88,243.2,79.6,0.12,Pescatarian,47.5,9,95.9
+748,67,Female,Other,Oceania,26.8,0,0,0.96,771.1,61.9,0.4,Omnivore,19.7,5,66.5
+749,29,Other,Other,Asia,34.2,1,1,2.01,672.9,55.0,0.84,Omnivore,49.1,7,88.5
+750,33,Other,Caucasian,Asia,28.6,1,1,1.09,566.8,101.3,0.52,Omnivore,27.6,6,55.4
+751,45,Female,Asian,North America,25.7,0,1,2.36,700.4,105.0,0.39,Omnivore,46.3,3,95.6
+752,25,Female,Caucasian,Asia,31.2,1,1,2.56,226.4,86.7,0.22,Vegetarian,32.1,7,61.6
+753,73,Male,Asian,Oceania,20.1,0,1,1.02,601.8,79.2,0.92,Omnivore,30.4,8,87.7
+754,78,Male,African,Asia,18.7,1,1,2.69,620.0,72.9,0.95,Vegetarian,12.1,4,60.7
+755,65,Female,Other,Oceania,31.3,0,1,2.5,390.7,112.1,0.5,Omnivore,17.0,4,57.3
+756,68,Male,Asian,Oceania,32.6,1,0,1.5,795.1,70.8,0.47,Pescatarian,8.3,2,69.9
+757,75,Female,Other,Asia,30.1,0,1,3.55,372.1,72.5,0.24,Pescatarian,41.4,8,50.3
+758,68,Other,African,Asia,19.1,0,0,1.36,308.5,64.5,0.62,Omnivore,16.7,5,59.2
+759,35,Female,Asian,Africa,21.1,1,0,0.54,333.4,62.4,0.48,Vegetarian,7.6,6,94.1
+760,57,Other,Asian,Africa,23.2,1,0,1.67,472.4,71.7,0.23,Pescatarian,20.5,6,77.3
+761,61,Female,Caucasian,Oceania,20.1,1,0,1.93,397.6,107.8,0.12,Pescatarian,27.0,2,96.7
+762,29,Male,African,Africa,18.9,0,1,3.61,639.7,107.9,0.19,Vegetarian,19.7,4,79.2
+763,40,Other,Hispanic,Europe,22.0,0,0,2.1,403.8,117.0,0.57,Omnivore,45.7,6,52.7
+764,57,Male,Asian,Europe,28.6,1,1,2.67,484.9,83.5,0.04,Pescatarian,31.9,1,67.0
+765,31,Female,African,Asia,23.2,1,1,3.21,707.6,67.8,0.78,Vegetarian,37.5,5,92.3
+766,48,Female,Asian,Asia,24.3,1,0,3.96,440.2,53.5,0.33,Vegetarian,30.9,7,57.1
+767,41,Male,Asian,Oceania,28.3,1,1,2.48,404.8,99.7,0.44,Pescatarian,26.5,3,75.4
+768,26,Female,African,Asia,33.3,1,1,3.58,610.1,106.9,0.41,Omnivore,44.4,7,65.5
+769,46,Female,Asian,Africa,30.2,1,1,3.82,719.4,44.8,0.9,Pescatarian,12.0,2,71.0
+770,61,Other,Other,Asia,26.9,1,1,1.36,384.4,72.6,0.8,Pescatarian,5.5,3,59.4
+771,23,Male,Caucasian,Europe,19.6,0,1,3.8,671.8,78.4,0.58,Omnivore,13.5,7,64.6
+772,74,Other,Hispanic,Europe,25.6,1,0,1.28,740.8,102.8,0.91,Vegetarian,13.4,10,75.2
+773,64,Female,Other,Europe,29.4,0,0,3.98,722.4,43.6,0.24,Vegetarian,46.1,2,82.1
+774,77,Male,Other,North America,19.3,1,0,2.25,245.4,100.1,0.48,Vegetarian,25.4,8,89.9
+775,71,Female,Other,Asia,21.2,0,1,3.39,355.6,48.3,0.93,Omnivore,30.9,1,91.8
+776,31,Other,Asian,Asia,24.8,0,1,3.22,402.3,107.6,0.71,Pescatarian,39.4,6,75.3
+777,56,Male,African,Asia,20.6,1,0,2.7,605.9,86.0,0.16,Pescatarian,6.9,9,67.5
+778,49,Male,Asian,Asia,20.2,0,1,3.13,304.8,46.5,0.27,Pescatarian,9.6,1,76.0
+779,58,Male,Asian,Asia,27.3,0,1,1.43,311.6,115.2,0.85,Omnivore,11.3,6,85.0
+780,78,Male,African,Europe,29.3,1,1,1.66,543.3,49.3,0.07,Omnivore,6.6,4,72.0
+781,64,Other,Asian,Europe,27.2,1,0,1.72,644.6,41.7,0.38,Pescatarian,44.0,6,99.7
+782,65,Other,Hispanic,Europe,19.5,1,0,2.13,254.5,101.3,0.4,Vegetarian,13.9,3,81.1
+783,65,Male,Hispanic,Europe,28.2,0,0,0.78,270.7,41.0,0.52,Pescatarian,42.8,3,70.8
+784,65,Other,African,Africa,23.7,1,0,1.8,753.0,65.8,0.35,Pescatarian,35.6,4,95.7
+785,73,Male,Hispanic,Europe,21.4,0,0,0.71,683.3,45.5,0.9,Vegetarian,12.7,8,91.4
+786,43,Female,Caucasian,Oceania,22.9,1,0,3.96,322.0,47.4,0.26,Vegetarian,22.7,8,81.1
+787,45,Other,African,Oceania,31.1,1,0,1.96,392.9,79.4,0.78,Pescatarian,38.0,4,70.2
+788,32,Female,Asian,Europe,21.3,0,1,2.24,394.0,111.0,0.4,Omnivore,14.2,3,63.9
+789,40,Male,Asian,Africa,21.3,0,0,3.21,351.5,53.5,0.23,Vegetarian,29.2,6,81.1
+790,19,Female,African,Oceania,28.1,1,1,0.96,791.0,57.6,0.79,Omnivore,9.3,5,58.9
+791,67,Other,Hispanic,Asia,20.7,0,1,0.67,731.3,47.9,0.39,Omnivore,31.8,4,86.3
+792,21,Other,Hispanic,Oceania,23.8,1,1,1.53,709.5,117.0,0.04,Pescatarian,43.7,10,92.7
+793,40,Female,Asian,Asia,22.9,1,0,3.77,737.4,79.2,0.29,Pescatarian,44.0,3,61.1
+794,32,Female,Hispanic,Africa,25.1,0,0,1.21,552.0,120.0,0.2,Vegetarian,32.4,7,91.3
+795,62,Other,Other,Oceania,31.4,1,0,3.02,314.5,52.2,0.43,Pescatarian,46.8,9,87.4
+796,20,Male,Other,Africa,30.8,0,0,2.45,476.0,44.9,0.14,Omnivore,33.8,3,52.5
+797,77,Other,African,Africa,34.8,1,1,1.78,439.1,91.2,0.15,Vegetarian,49.4,3,69.6
+798,39,Other,Caucasian,Oceania,29.1,0,0,3.17,606.3,48.3,0.47,Omnivore,36.9,4,64.2
+799,47,Male,Other,Oceania,26.1,0,1,1.22,218.3,58.1,0.39,Pescatarian,34.6,9,53.9
+800,29,Female,Asian,Oceania,21.1,1,1,1.75,205.9,56.5,0.43,Pescatarian,41.5,9,59.8
+801,34,Male,Other,Oceania,34.8,1,1,1.39,559.5,116.9,0.8,Vegetarian,16.5,4,78.4
+802,20,Female,Asian,Asia,27.4,0,1,3.89,797.5,42.0,0.06,Omnivore,5.9,7,83.7
+803,78,Female,Caucasian,Asia,25.1,0,0,0.69,577.3,58.5,0.59,Omnivore,32.1,1,74.4
+804,43,Male,Caucasian,Asia,23.1,1,0,2.21,684.9,101.2,0.27,Omnivore,15.2,3,62.4
+805,52,Male,Hispanic,Africa,32.7,1,1,1.62,665.5,80.4,0.47,Omnivore,45.1,6,60.8
+806,29,Other,Caucasian,Asia,33.4,0,1,2.61,279.8,113.2,0.26,Pescatarian,25.9,5,60.3
+807,66,Male,Asian,Asia,24.1,1,1,3.42,480.7,51.6,0.49,Pescatarian,15.0,7,51.7
+808,36,Other,Hispanic,Asia,19.3,0,0,0.58,389.5,110.3,0.76,Omnivore,39.3,10,71.5
+809,48,Male,Asian,Europe,26.6,0,0,0.78,609.3,103.1,0.02,Omnivore,38.5,3,68.4
+810,37,Female,Hispanic,Europe,33.8,0,1,0.53,337.2,67.2,0.21,Vegetarian,33.9,6,91.1
+811,59,Male,Other,North America,30.8,1,1,0.65,303.8,45.2,0.17,Vegetarian,36.1,5,81.4
+812,72,Male,Other,Africa,23.1,0,0,2.55,232.6,103.6,0.51,Vegetarian,9.8,4,52.5
+813,31,Female,Other,Europe,32.3,1,0,2.38,519.8,77.4,0.17,Vegetarian,5.4,9,99.6
+814,74,Other,African,Europe,27.6,1,1,3.14,615.8,59.1,0.15,Pescatarian,9.9,5,72.6
+815,59,Female,African,Asia,20.6,0,0,3.69,720.6,54.1,0.1,Omnivore,31.4,7,68.6
+816,35,Female,Caucasian,North America,24.3,1,1,0.84,288.1,51.9,0.87,Pescatarian,8.2,3,74.4
+817,43,Other,Hispanic,Europe,29.0,0,1,3.58,417.2,70.9,0.04,Omnivore,29.1,3,80.3
+818,61,Other,African,North America,33.4,0,1,0.96,505.9,75.2,0.52,Pescatarian,47.5,4,68.6
+819,72,Other,Hispanic,Oceania,34.8,1,1,2.11,365.2,58.6,0.89,Vegetarian,41.8,4,95.4
+820,47,Female,Caucasian,Africa,31.6,0,1,0.67,490.1,107.4,0.25,Pescatarian,46.4,1,67.5
+821,22,Other,African,Oceania,24.7,0,0,2.94,294.3,77.7,0.39,Omnivore,6.1,1,67.1
+822,79,Male,African,Oceania,20.8,0,0,1.54,544.2,88.2,0.4,Omnivore,48.9,7,78.3
+823,69,Female,Other,Europe,28.6,0,0,2.53,706.1,117.2,0.64,Omnivore,5.8,8,61.8
+824,44,Female,Other,Africa,33.6,0,1,1.26,609.2,64.4,0.35,Omnivore,32.2,2,91.0
+825,31,Male,Other,North America,25.3,0,0,1.33,586.6,58.7,0.25,Pescatarian,10.3,5,86.3
+826,35,Female,African,North America,30.8,0,0,3.58,572.8,118.7,0.5,Vegetarian,20.4,6,96.3
+827,29,Male,Hispanic,North America,34.5,0,1,0.58,321.2,112.7,0.48,Vegetarian,8.2,3,80.7
+828,51,Other,Asian,North America,32.6,0,1,2.94,605.1,67.3,0.22,Pescatarian,7.3,5,64.9
+829,66,Male,Asian,Africa,27.5,0,0,0.65,690.8,47.3,0.5,Vegetarian,49.8,7,83.5
+830,71,Male,Caucasian,Oceania,18.7,1,1,2.64,732.1,96.0,0.27,Pescatarian,15.6,6,79.9
+831,48,Male,Other,Europe,33.2,1,1,0.67,215.5,102.8,0.0,Pescatarian,40.2,4,68.9
+832,53,Other,African,North America,31.0,1,1,0.95,726.6,41.5,0.1,Vegetarian,20.6,8,60.7
+833,75,Female,Caucasian,Oceania,26.7,0,1,2.9,379.5,59.6,0.74,Pescatarian,47.9,3,60.5
+834,79,Male,Caucasian,North America,19.8,0,0,2.86,343.5,66.9,0.08,Vegetarian,33.1,7,60.8
+835,55,Female,Hispanic,Oceania,32.2,0,0,3.57,340.0,100.2,0.09,Vegetarian,26.9,7,79.0
+836,76,Other,Caucasian,North America,19.7,0,1,2.01,666.4,70.7,0.37,Vegetarian,7.8,4,98.8
+837,63,Other,Other,Africa,31.8,1,0,0.84,724.5,103.8,0.41,Vegetarian,35.7,1,77.0
+838,68,Female,African,Europe,24.7,0,0,0.73,430.3,48.9,0.44,Omnivore,39.1,7,58.7
+839,20,Male,Caucasian,Africa,25.6,0,1,0.87,242.1,59.7,0.68,Vegetarian,6.8,10,54.4
+840,28,Other,Hispanic,Africa,33.3,1,0,1.0,658.6,88.0,0.56,Omnivore,8.2,7,77.5
+841,53,Other,Asian,Asia,28.3,1,1,0.63,607.1,63.6,0.12,Vegetarian,34.8,8,87.6
+842,60,Other,Asian,Africa,30.9,0,0,0.97,482.3,53.4,0.14,Vegetarian,27.3,5,94.9
+843,65,Male,African,Europe,23.1,1,0,1.11,369.1,53.6,0.09,Omnivore,35.5,4,96.0
+844,49,Female,African,Asia,28.1,0,0,1.48,319.5,90.7,0.98,Omnivore,43.2,5,70.7
+845,22,Female,Asian,North America,33.6,0,0,2.97,401.7,78.4,0.74,Vegetarian,28.1,1,86.8
+846,19,Other,Other,Europe,25.0,0,0,3.24,522.6,69.4,0.89,Vegetarian,34.3,3,67.6
+847,27,Male,Hispanic,Oceania,27.0,1,1,3.47,415.8,71.2,0.61,Vegetarian,13.1,1,73.5
+848,76,Male,Caucasian,North America,30.1,0,0,2.21,225.5,113.2,0.29,Vegetarian,14.4,7,56.9
+849,41,Female,Caucasian,Asia,26.1,1,1,0.54,392.4,71.8,0.6,Omnivore,30.8,9,87.8
+850,55,Male,Other,Africa,20.4,1,1,2.85,645.8,49.0,0.48,Vegetarian,9.8,1,50.9
+851,35,Other,African,Oceania,22.1,0,1,3.39,353.1,106.0,0.07,Omnivore,34.3,4,83.0
+852,25,Male,Hispanic,Oceania,23.7,1,1,1.24,484.8,74.7,0.89,Vegetarian,33.6,4,73.8
+853,34,Female,Asian,Asia,18.8,1,1,0.6,522.3,117.1,0.85,Vegetarian,7.1,2,53.5
+854,54,Other,Hispanic,North America,19.9,1,0,3.04,341.1,99.0,0.9,Omnivore,40.0,8,75.5
+855,26,Other,Other,Asia,27.9,1,0,3.87,399.4,61.0,0.48,Vegetarian,24.2,2,87.1
+856,79,Female,Hispanic,Africa,20.6,0,1,2.73,622.9,51.8,0.05,Vegetarian,14.0,8,76.5
+857,53,Male,African,Asia,26.6,1,1,2.64,391.7,43.3,0.46,Vegetarian,35.9,6,94.4
+858,61,Male,Caucasian,Asia,31.3,1,1,3.41,621.3,81.4,0.37,Omnivore,21.3,10,90.7
+859,78,Male,Other,Europe,20.5,1,0,2.74,572.5,56.6,0.38,Vegetarian,43.8,8,68.5
+860,41,Male,Asian,North America,28.4,1,1,3.68,331.0,80.5,0.22,Vegetarian,40.7,5,83.9
+861,54,Female,Caucasian,Asia,19.9,1,0,1.17,765.4,117.2,0.96,Omnivore,44.3,1,95.5
+862,65,Female,Caucasian,Africa,24.8,1,0,0.55,335.4,80.3,0.41,Pescatarian,42.4,7,72.3
+863,20,Other,Asian,North America,20.5,1,0,3.92,374.3,58.9,0.63,Vegetarian,44.4,3,80.6
+864,28,Female,Other,Europe,27.2,1,1,3.88,651.9,57.5,0.38,Pescatarian,36.3,1,81.7
+865,77,Male,African,Asia,28.1,0,0,2.21,318.0,57.1,0.77,Pescatarian,26.0,2,53.3
+866,76,Female,Other,Asia,25.6,0,1,0.99,472.5,54.6,0.91,Pescatarian,5.8,4,61.8
+867,67,Female,Asian,Oceania,21.1,1,0,2.43,495.3,44.9,0.42,Vegetarian,40.3,5,84.9
+868,66,Female,Other,North America,22.3,1,0,1.35,494.7,77.4,0.49,Vegetarian,23.3,2,78.6
+869,20,Male,Hispanic,Asia,20.5,0,0,2.91,243.7,41.9,0.3,Omnivore,29.6,6,66.9
+870,24,Other,Asian,Oceania,33.2,1,1,3.96,320.7,86.2,0.43,Vegetarian,9.2,9,64.5
+871,79,Male,Other,North America,19.8,1,0,2.98,680.1,86.1,0.68,Omnivore,47.5,6,58.3
+872,24,Male,African,Europe,24.2,0,1,0.92,573.0,71.1,0.52,Pescatarian,45.1,2,95.2
+873,20,Other,Caucasian,Asia,27.6,1,1,2.48,528.8,101.1,0.39,Omnivore,39.0,6,77.7
+874,67,Female,Other,Europe,20.1,1,1,0.54,631.7,78.0,0.24,Pescatarian,33.0,10,83.5
+875,70,Other,African,Africa,23.8,1,0,3.69,305.7,113.7,0.71,Vegetarian,20.4,3,62.0
+876,30,Male,Caucasian,North America,28.5,1,0,3.7,468.2,95.5,0.72,Pescatarian,49.3,10,82.4
+877,38,Female,Asian,North America,32.5,0,1,1.48,403.3,88.1,0.82,Pescatarian,41.0,3,55.6
+878,78,Male,Asian,Oceania,33.9,1,0,1.82,765.1,81.2,0.56,Pescatarian,35.0,1,90.2
+879,39,Female,African,North America,23.3,1,0,2.25,463.4,72.8,0.99,Vegetarian,38.2,5,56.1
+880,36,Other,Other,Asia,22.1,1,0,2.35,413.4,91.4,0.55,Pescatarian,31.3,10,89.5
+881,56,Male,Caucasian,Europe,22.3,0,1,3.96,651.4,117.0,0.1,Vegetarian,21.3,8,69.1
+882,57,Other,Other,Africa,30.7,1,1,2.94,552.3,96.6,0.69,Vegetarian,24.7,10,57.7
+883,79,Female,African,Africa,24.9,1,0,1.12,237.7,114.7,0.59,Vegetarian,19.0,1,77.3
+884,64,Female,African,Africa,22.5,0,0,3.28,567.8,107.4,0.86,Vegetarian,8.8,10,98.1
+885,76,Female,Hispanic,Oceania,33.6,0,1,0.63,304.0,86.4,0.44,Omnivore,20.8,4,77.1
+886,20,Male,African,Africa,25.5,1,0,3.26,439.6,58.4,0.56,Omnivore,25.3,3,70.9
+887,19,Female,Caucasian,Africa,29.1,1,0,0.94,628.6,101.4,0.75,Pescatarian,50.0,7,60.9
+888,70,Male,Other,Africa,19.4,0,1,2.4,377.1,85.8,0.8,Vegetarian,37.0,6,91.9
+889,32,Female,African,Oceania,31.4,1,0,3.66,603.7,59.5,0.35,Omnivore,28.6,3,86.5
+890,40,Female,Other,Oceania,20.2,1,1,2.99,209.7,90.2,0.11,Omnivore,22.4,6,96.6
+891,72,Other,African,North America,22.0,1,1,0.53,228.1,42.3,0.59,Pescatarian,29.6,6,53.3
+892,75,Male,Hispanic,North America,21.7,1,0,2.63,279.3,105.4,0.38,Omnivore,27.6,10,85.3
+893,74,Other,Other,Oceania,25.0,1,1,1.76,637.9,79.4,0.84,Vegetarian,17.0,7,86.4
+894,46,Male,Other,Asia,20.3,1,0,1.36,358.0,98.2,0.66,Omnivore,6.5,6,79.4
+895,70,Male,Asian,Europe,19.3,1,1,1.33,513.0,85.7,0.84,Omnivore,48.0,8,85.0
+896,21,Other,Caucasian,North America,21.2,0,0,1.57,796.5,116.8,0.05,Omnivore,30.3,5,89.6
+897,18,Male,Asian,Asia,30.1,1,0,3.2,551.5,40.0,0.16,Vegetarian,26.0,8,85.8
+898,23,Other,Hispanic,Europe,23.3,0,1,3.99,359.0,79.9,0.32,Pescatarian,38.3,10,70.1
+899,27,Other,Other,Oceania,26.4,0,0,0.63,358.1,93.9,0.69,Vegetarian,26.4,4,91.7
+900,40,Other,Hispanic,Asia,34.8,0,1,3.86,235.2,106.5,0.42,Pescatarian,19.4,8,78.2
+901,23,Other,Asian,North America,24.8,1,1,1.21,763.1,41.4,0.3,Omnivore,23.3,2,74.7
+902,32,Male,African,Europe,29.0,1,0,1.01,467.6,45.8,0.46,Vegetarian,5.9,4,51.1
+903,61,Other,Hispanic,Africa,19.4,0,1,0.97,405.0,105.3,0.15,Vegetarian,38.8,4,77.5
+904,66,Male,Hispanic,Europe,27.4,0,1,1.52,244.2,118.2,0.07,Vegetarian,24.8,2,72.1
+905,55,Other,African,Europe,33.8,1,1,1.86,464.1,104.2,0.65,Pescatarian,35.2,6,51.6
+906,48,Male,Asian,Europe,20.0,1,1,0.63,460.8,108.0,0.51,Omnivore,44.5,10,66.4
+907,20,Male,Caucasian,Africa,22.0,1,1,1.96,541.3,60.8,0.87,Vegetarian,34.3,8,72.9
+908,79,Female,Other,Asia,27.9,0,0,3.26,719.0,109.9,0.96,Vegetarian,42.6,8,73.8
+909,55,Female,Hispanic,Africa,28.2,1,0,3.96,350.7,56.2,0.22,Pescatarian,42.8,8,87.4
+910,70,Male,Hispanic,Africa,21.3,0,0,2.81,549.5,83.2,0.97,Omnivore,26.4,4,92.3
+911,76,Female,African,Asia,20.9,1,0,3.59,608.3,83.0,0.02,Pescatarian,12.2,10,97.6
+912,19,Female,African,Asia,29.5,0,0,1.13,654.0,53.0,0.49,Vegetarian,42.4,5,97.6
+913,78,Female,African,North America,28.3,1,0,3.88,399.4,73.1,0.0,Omnivore,31.4,5,61.4
+914,78,Female,Other,Asia,33.0,0,1,3.69,611.5,62.3,0.79,Omnivore,39.4,1,92.3
+915,55,Other,Asian,Oceania,33.6,1,0,2.98,792.5,95.5,0.21,Vegetarian,48.9,3,59.5
+916,36,Female,Caucasian,Oceania,26.9,0,1,0.81,393.8,105.2,0.45,Pescatarian,15.7,8,99.7
+917,69,Male,Other,North America,22.0,1,1,2.07,589.3,69.6,0.24,Vegetarian,38.3,5,76.0
+918,72,Other,Other,Europe,33.5,0,1,3.89,222.1,83.0,0.82,Omnivore,34.3,6,76.1
+919,44,Other,Caucasian,North America,19.6,0,0,1.17,692.9,60.7,0.53,Pescatarian,9.6,4,56.9
+920,35,Female,African,North America,26.2,0,1,2.21,351.9,84.7,0.84,Vegetarian,28.4,6,68.6
+921,47,Male,Hispanic,Oceania,34.8,0,1,2.35,675.3,72.9,0.08,Vegetarian,47.6,9,72.2
+922,74,Male,African,Africa,34.6,0,1,2.66,203.1,83.6,0.0,Vegetarian,44.6,1,82.4
+923,30,Male,Hispanic,Africa,19.6,0,0,2.38,394.9,118.4,0.59,Vegetarian,23.8,5,88.4
+924,39,Male,Hispanic,Europe,26.6,0,0,3.72,559.6,110.7,0.64,Omnivore,45.7,5,54.6
+925,51,Female,Asian,Asia,33.7,1,1,0.61,332.9,90.8,0.05,Omnivore,12.8,8,61.9
+926,53,Male,Hispanic,Oceania,18.9,0,0,2.64,735.3,110.9,0.62,Vegetarian,34.4,9,54.6
+927,79,Other,Hispanic,Europe,33.0,0,0,2.44,399.6,73.9,0.1,Pescatarian,13.3,6,61.6
+928,64,Other,Caucasian,Oceania,29.2,0,1,3.76,467.1,67.1,0.47,Pescatarian,22.1,9,62.2
+929,79,Female,Hispanic,Asia,28.2,1,1,2.5,320.0,54.3,0.64,Vegetarian,21.7,10,95.0
+930,66,Other,Asian,Europe,27.9,1,0,1.13,329.7,72.6,0.22,Pescatarian,15.3,7,78.9
+931,69,Female,Asian,North America,25.3,1,1,1.09,394.3,55.3,0.15,Omnivore,7.0,2,90.4
+932,74,Male,Other,Africa,25.9,1,1,1.81,577.8,80.0,0.51,Vegetarian,34.8,4,87.8
+933,24,Male,Asian,Oceania,32.0,0,1,2.1,512.3,117.2,0.11,Pescatarian,43.5,3,95.3
+934,23,Male,Asian,Asia,31.3,1,1,0.94,660.7,115.6,0.42,Vegetarian,21.5,3,86.6
+935,50,Other,Other,Oceania,29.7,0,1,2.72,483.1,118.0,0.37,Vegetarian,13.9,5,93.5
+936,74,Female,Other,Asia,25.4,1,1,2.51,635.5,116.5,0.88,Pescatarian,28.6,7,66.4
+937,38,Female,Caucasian,Asia,24.8,0,0,2.61,384.7,103.9,0.81,Vegetarian,43.1,10,53.6
+938,70,Male,African,Asia,32.4,0,0,2.18,799.6,92.1,0.23,Vegetarian,43.2,4,87.1
+939,47,Female,Other,North America,19.3,1,0,2.74,578.1,71.2,0.07,Vegetarian,15.7,7,96.5
+940,29,Male,Caucasian,Oceania,21.2,0,0,2.03,571.8,62.8,0.45,Omnivore,16.5,1,59.7
+941,24,Female,Asian,Africa,34.1,1,1,2.25,273.4,99.5,0.52,Pescatarian,18.3,7,74.2
+942,45,Male,Hispanic,Oceania,25.5,1,0,3.81,355.2,83.2,0.58,Pescatarian,13.8,7,59.5
+943,71,Male,Hispanic,North America,18.7,1,0,1.14,741.4,50.4,0.24,Omnivore,42.5,9,73.2
+944,70,Male,African,Asia,18.6,1,1,3.64,462.0,115.9,0.59,Vegetarian,16.1,2,99.6
+945,21,Other,Asian,Africa,33.2,1,1,2.15,753.1,79.6,0.0,Omnivore,21.2,1,80.8
+946,62,Male,Other,Asia,34.1,0,0,3.5,665.9,117.8,0.81,Vegetarian,18.3,1,66.9
+947,29,Other,Caucasian,Oceania,20.5,1,1,0.92,769.6,89.7,0.59,Omnivore,13.7,2,50.5
+948,40,Male,Caucasian,Europe,32.2,0,0,0.99,266.4,92.5,0.66,Vegetarian,31.7,8,58.7
+949,57,Female,Asian,North America,19.1,0,1,3.17,782.1,66.6,0.79,Omnivore,7.0,5,65.3
+950,40,Other,Hispanic,Africa,26.0,0,0,1.06,795.3,110.5,0.43,Omnivore,48.0,3,75.1
+951,44,Other,Asian,Asia,20.7,0,0,1.29,472.0,65.7,0.51,Vegetarian,46.0,2,55.4
+952,31,Female,African,Asia,27.5,0,0,1.93,262.4,77.7,0.52,Vegetarian,31.8,3,93.4
+953,79,Other,Other,Asia,29.2,1,0,1.84,675.9,94.5,0.91,Vegetarian,39.8,5,50.6
+954,51,Male,African,Asia,26.9,0,0,1.79,725.2,47.6,0.95,Omnivore,13.4,6,65.1
+955,22,Female,Hispanic,Asia,31.2,1,1,1.33,372.1,59.5,0.2,Vegetarian,40.9,10,66.1
+956,63,Female,Other,North America,24.0,0,0,2.41,739.1,42.7,0.67,Omnivore,35.8,6,91.6
+957,29,Female,Hispanic,Europe,33.2,0,0,1.95,606.5,69.9,0.52,Vegetarian,7.9,1,51.8
+958,19,Other,Asian,North America,30.9,0,0,2.79,350.7,71.3,0.56,Vegetarian,5.6,7,87.1
+959,27,Male,Caucasian,Asia,30.0,0,0,1.55,787.6,48.7,0.4,Pescatarian,10.6,2,69.0
+960,36,Female,African,Oceania,31.2,0,1,3.2,797.9,96.5,0.55,Pescatarian,45.1,6,84.7
+961,39,Female,African,Asia,34.3,1,0,2.73,621.9,95.6,0.25,Omnivore,17.9,6,85.6
+962,52,Female,Hispanic,Africa,24.7,1,1,2.92,254.6,43.5,0.53,Vegetarian,13.8,2,81.7
+963,40,Female,Caucasian,Asia,33.2,1,0,3.48,273.4,65.7,0.92,Vegetarian,14.4,4,77.9
+964,33,Female,Hispanic,North America,28.5,1,1,1.26,750.6,105.9,0.54,Vegetarian,16.1,3,64.8
+965,18,Male,Caucasian,Europe,21.7,0,0,0.98,589.5,100.7,0.41,Vegetarian,38.1,10,69.2
+966,28,Other,Other,North America,27.4,1,1,2.98,714.2,45.3,0.19,Pescatarian,27.7,7,87.0
+967,30,Male,Asian,Europe,30.0,1,1,2.65,389.4,54.5,0.13,Omnivore,24.4,10,60.0
+968,75,Other,Hispanic,North America,32.8,1,0,2.15,642.1,92.1,0.35,Vegetarian,12.0,5,56.0
+969,33,Male,Other,Oceania,30.6,0,0,2.55,413.7,75.6,0.04,Vegetarian,41.4,10,77.9
+970,78,Other,Other,Oceania,19.6,0,0,1.54,454.7,80.0,0.01,Vegetarian,35.9,3,89.5
+971,75,Other,Asian,North America,20.5,0,1,3.76,789.0,95.2,0.58,Vegetarian,12.3,3,77.4
+972,30,Other,Other,Africa,24.4,1,1,1.76,429.7,99.3,0.4,Omnivore,15.3,1,56.6
+973,34,Other,Caucasian,Asia,28.4,0,1,2.05,211.2,58.1,0.41,Vegetarian,34.5,9,81.2
+974,56,Male,Asian,Asia,34.4,0,0,2.33,793.7,40.9,0.51,Omnivore,10.4,9,59.6
+975,69,Female,African,Europe,20.9,0,0,1.45,597.6,76.0,0.99,Omnivore,36.5,2,57.1
+976,40,Male,African,North America,34.7,0,1,3.36,267.2,53.7,0.79,Omnivore,39.2,6,85.5
+977,75,Female,Hispanic,North America,20.4,1,0,2.77,368.2,115.1,0.04,Pescatarian,9.3,2,64.2
+978,47,Female,Asian,Europe,24.6,1,0,2.36,691.5,56.4,0.99,Omnivore,36.0,1,59.9
+979,61,Other,Other,Oceania,34.9,0,1,0.55,755.2,81.6,0.22,Vegetarian,7.3,9,69.2
+980,50,Male,Other,Europe,28.3,1,0,2.25,525.4,87.6,0.7,Pescatarian,25.5,8,92.6
+981,73,Female,African,Asia,26.4,0,1,3.57,381.9,106.9,0.31,Omnivore,41.0,4,82.5
+982,20,Female,Hispanic,Europe,18.9,0,0,3.1,550.3,115.0,0.04,Pescatarian,7.0,2,72.2
+983,26,Male,African,Europe,26.9,1,1,2.45,699.7,43.1,0.43,Omnivore,20.0,5,59.8
+984,40,Male,Hispanic,North America,34.2,0,0,1.31,280.8,104.6,0.98,Pescatarian,40.9,8,85.5
+985,36,Female,Caucasian,North America,26.5,0,0,1.12,488.4,72.4,0.1,Vegetarian,22.2,8,56.6
+986,59,Male,Hispanic,Asia,23.0,0,1,1.19,312.0,84.6,0.79,Omnivore,12.9,1,93.8
+987,70,Male,Other,Africa,30.8,0,0,2.3,363.5,60.4,0.12,Pescatarian,44.2,9,50.0
+988,48,Male,African,North America,21.0,0,1,1.81,498.1,115.0,0.31,Pescatarian,8.5,4,71.1
+989,71,Female,African,North America,31.1,1,1,3.81,380.6,105.9,0.61,Omnivore,10.7,7,59.2
+990,26,Other,Hispanic,Asia,32.0,1,1,2.94,668.9,107.1,0.05,Vegetarian,15.2,1,58.4
+991,74,Other,Hispanic,Europe,25.5,1,0,2.01,561.0,99.6,0.88,Vegetarian,16.8,2,88.3
+992,26,Male,African,Asia,28.2,0,1,3.37,739.9,84.4,0.55,Pescatarian,45.3,7,86.6
+993,64,Female,African,Africa,31.6,0,0,3.69,368.0,77.1,0.3,Vegetarian,11.1,5,93.6
+994,76,Male,Other,Africa,34.5,0,0,0.83,277.0,42.1,0.12,Omnivore,25.5,2,53.2
+995,70,Other,African,Europe,24.9,0,1,1.6,672.0,53.9,0.96,Omnivore,24.2,8,57.5
+996,36,Female,Asian,Africa,28.5,0,1,2.52,720.3,76.6,0.55,Pescatarian,13.5,5,56.0
+997,76,Female,Other,Africa,29.9,1,0,1.96,552.7,67.1,0.15,Omnivore,47.6,5,52.7
+998,69,Female,Hispanic,Asia,20.1,1,1,2.24,385.0,97.0,0.25,Omnivore,8.7,9,65.4
+999,61,Male,Caucasian,Asia,30.8,1,1,3.0,292.9,52.0,0.76,Pescatarian,40.7,5,86.6
+1000,22,Male,Other,North America,24.6,1,0,0.89,204.4,85.2,0.3,Omnivore,12.6,3,68.5
+1001,19,Other,Other,Europe,30.4,1,0,1.44,344.4,84.3,0.74,Pescatarian,27.0,9,93.1
+1002,18,Other,Asian,Asia,28.0,1,0,1.38,377.4,97.8,0.99,Omnivore,33.4,5,52.6
+1003,28,Female,Caucasian,Asia,21.7,0,1,2.3,580.9,103.4,0.85,Vegetarian,26.7,2,66.4
+1004,46,Female,African,North America,25.0,1,1,3.09,543.9,97.4,0.05,Vegetarian,39.6,4,90.1
+1005,68,Female,African,Africa,27.5,0,0,1.71,242.1,69.6,0.77,Pescatarian,35.6,9,66.0
+1006,20,Female,Hispanic,Asia,32.1,0,1,2.66,771.5,113.3,0.13,Pescatarian,19.0,2,51.5
+1007,35,Male,Hispanic,Europe,24.2,1,0,2.81,535.1,49.1,0.06,Vegetarian,30.6,6,60.9
+1008,73,Other,Hispanic,Asia,31.2,0,1,3.24,693.1,73.5,0.04,Vegetarian,37.4,4,92.3
+1009,30,Male,Caucasian,Africa,21.0,0,1,0.6,565.9,104.0,0.09,Vegetarian,32.8,2,79.7
+1010,73,Other,Other,Asia,29.5,0,1,2.22,226.9,101.8,0.56,Vegetarian,20.0,10,91.4
+1011,41,Female,Asian,Asia,22.6,1,1,3.0,771.8,42.4,0.72,Vegetarian,23.7,6,63.5
+1012,27,Other,Caucasian,Asia,33.6,1,0,2.9,367.4,46.9,0.84,Pescatarian,31.7,8,85.5
+1013,54,Female,Other,Asia,23.4,1,1,2.1,317.7,80.3,0.76,Pescatarian,34.1,9,62.0
+1014,55,Other,Other,Oceania,28.6,1,1,1.15,308.2,76.4,0.97,Vegetarian,26.4,4,87.0
+1015,52,Other,Caucasian,Oceania,26.1,0,0,2.04,725.3,103.7,0.95,Omnivore,11.9,6,95.3
+1016,25,Female,African,Africa,22.5,0,0,1.86,557.1,82.5,0.08,Pescatarian,10.9,10,84.4
+1017,45,Female,African,Europe,33.1,1,1,3.92,385.0,113.9,0.59,Pescatarian,47.1,6,51.3
+1018,29,Other,Hispanic,Oceania,33.6,0,0,1.5,737.0,84.1,0.55,Vegetarian,20.9,8,67.5
+1019,43,Female,Caucasian,Oceania,32.8,1,1,1.84,795.0,75.7,0.41,Vegetarian,7.1,6,84.8
+1020,76,Male,Asian,Africa,32.0,0,1,1.33,798.9,101.5,0.18,Vegetarian,14.3,9,83.6
+1021,47,Other,Asian,Oceania,19.1,1,0,1.88,431.9,70.3,0.1,Pescatarian,37.1,2,76.5
+1022,58,Other,Other,Oceania,31.5,1,0,0.81,533.5,58.2,0.81,Omnivore,21.6,10,91.1
+1023,52,Other,Caucasian,Europe,19.6,1,1,2.33,242.9,60.3,0.93,Pescatarian,46.1,5,67.6
+1024,54,Other,African,Asia,19.9,1,1,3.14,662.1,65.1,0.76,Vegetarian,36.6,2,58.7
+1025,25,Male,Hispanic,Africa,25.1,0,0,2.42,337.2,54.7,0.57,Omnivore,9.5,4,75.4
+1026,80,Female,African,North America,28.8,0,0,0.8,305.7,98.5,0.06,Omnivore,30.7,4,67.1
+1027,79,Male,Other,Africa,19.9,1,0,2.84,474.0,115.2,0.75,Pescatarian,48.8,8,72.7
+1028,56,Female,Hispanic,North America,31.5,0,0,3.62,473.4,51.0,0.18,Omnivore,31.8,7,63.6
+1029,51,Female,Asian,Africa,32.8,1,0,3.75,529.9,119.6,0.37,Omnivore,38.3,2,59.1
+1030,33,Male,African,Europe,24.2,1,0,0.89,220.7,63.8,0.65,Pescatarian,12.1,10,62.8
+1031,43,Other,Caucasian,North America,21.6,0,0,0.56,293.9,81.8,0.48,Omnivore,13.0,6,77.0
+1032,67,Male,Hispanic,Asia,30.9,1,1,1.43,385.2,104.7,0.4,Vegetarian,14.9,5,97.9
+1033,45,Other,Caucasian,North America,24.3,0,1,1.49,695.3,63.3,0.24,Vegetarian,22.3,2,63.4
+1034,19,Female,Asian,Asia,27.2,1,0,1.53,605.2,106.6,0.78,Vegetarian,17.9,3,69.2
+1035,24,Female,Asian,Africa,25.4,1,0,2.25,741.1,70.5,0.99,Omnivore,44.7,1,77.3
+1036,20,Other,Asian,Oceania,18.7,0,0,3.7,509.4,114.2,0.31,Pescatarian,7.4,4,82.6
+1037,62,Other,African,Africa,21.4,1,0,1.49,590.0,110.3,0.79,Vegetarian,49.6,8,93.4
+1038,58,Other,Hispanic,Africa,34.1,0,0,1.72,666.8,59.0,0.23,Pescatarian,15.2,9,80.6
+1039,77,Male,Other,Asia,24.4,0,1,1.52,712.4,89.2,0.56,Omnivore,49.2,8,65.6
+1040,55,Female,African,Europe,29.6,1,1,1.6,368.6,111.2,0.94,Vegetarian,27.4,10,51.7
+1041,75,Male,Other,Africa,21.7,1,1,2.48,695.2,109.6,0.57,Pescatarian,12.0,3,75.3
+1042,18,Male,African,Europe,27.3,0,0,0.6,508.7,72.3,0.2,Pescatarian,49.0,7,63.8
+1043,55,Male,Hispanic,Europe,19.5,1,0,0.74,222.6,64.4,0.27,Omnivore,26.1,4,80.9
+1044,50,Other,African,Oceania,24.0,1,0,2.73,752.1,84.9,0.72,Vegetarian,30.4,10,56.3
+1045,19,Other,Hispanic,Africa,28.3,0,0,2.33,557.1,47.9,0.96,Pescatarian,34.6,6,91.3
+1046,72,Male,Other,North America,33.9,0,0,1.58,431.5,85.9,0.99,Omnivore,33.4,6,67.8
+1047,65,Male,Caucasian,Asia,24.5,1,0,1.57,314.1,66.1,0.18,Omnivore,9.3,2,94.0
+1048,59,Female,African,Africa,25.1,1,0,2.25,468.4,114.3,0.91,Vegetarian,19.9,3,95.6
+1049,55,Female,Hispanic,Oceania,25.8,1,0,1.06,784.6,45.7,0.62,Vegetarian,10.5,7,87.2
+1050,22,Female,African,North America,31.6,0,1,2.76,236.4,105.9,0.02,Vegetarian,44.8,7,90.4
+1051,48,Male,Asian,North America,25.8,1,0,1.57,203.3,40.7,0.57,Vegetarian,17.3,8,54.3
+1052,36,Female,Caucasian,Africa,28.6,1,0,2.79,303.5,95.4,0.22,Omnivore,7.1,10,91.5
+1053,80,Male,Caucasian,Asia,34.2,0,1,2.24,498.8,77.0,0.58,Vegetarian,37.4,10,89.9
+1054,40,Other,Other,Africa,24.9,0,0,2.12,670.0,68.3,0.57,Pescatarian,7.5,5,79.3
+1055,74,Female,Hispanic,Oceania,33.1,1,1,0.59,434.1,75.0,0.65,Vegetarian,30.3,7,53.6
+1056,36,Male,African,Asia,19.3,1,0,3.57,720.0,64.9,0.59,Omnivore,19.1,3,53.5
+1057,42,Male,Caucasian,North America,26.7,0,1,2.48,286.9,115.1,0.43,Pescatarian,12.3,3,87.2
+1058,54,Other,Asian,Asia,30.4,0,1,2.23,699.7,114.8,0.06,Omnivore,18.1,7,65.7
+1059,26,Other,Other,Europe,34.0,1,0,2.56,502.6,71.9,0.85,Omnivore,14.8,7,90.0
+1060,27,Female,Other,Oceania,18.8,1,1,3.81,327.7,83.1,0.4,Vegetarian,8.2,3,99.3
+1061,22,Other,Caucasian,Europe,33.0,0,0,3.26,348.3,97.6,0.97,Omnivore,21.6,4,70.3
+1062,51,Male,Asian,North America,18.6,1,0,1.68,635.3,103.1,0.93,Pescatarian,20.8,4,61.0
+1063,30,Other,African,Africa,26.0,1,1,3.49,413.8,113.2,0.7,Pescatarian,43.3,6,57.8
+1064,72,Male,Other,Asia,19.9,1,0,3.02,220.2,41.9,0.65,Omnivore,22.1,10,78.9
+1065,25,Other,Caucasian,Oceania,18.8,1,1,3.0,528.1,60.8,0.94,Vegetarian,29.7,4,73.0
+1066,69,Female,Other,Europe,33.6,0,1,1.88,431.5,66.4,0.62,Pescatarian,24.6,1,78.0
+1067,45,Female,African,Africa,21.0,0,1,1.31,535.0,98.5,0.41,Pescatarian,12.0,5,53.7
+1068,35,Male,Caucasian,Europe,23.9,1,1,1.67,738.4,53.8,0.35,Vegetarian,28.1,3,93.1
+1069,80,Female,Caucasian,Africa,34.1,0,0,1.36,591.4,83.5,0.03,Omnivore,22.9,4,67.9
+1070,60,Female,Other,Africa,21.1,0,0,1.79,304.3,99.8,0.34,Pescatarian,37.0,5,81.5
+1071,50,Female,Other,Asia,30.9,1,0,2.88,632.0,106.5,0.17,Pescatarian,13.2,4,74.3
+1072,21,Male,Hispanic,Europe,23.0,1,0,0.77,400.1,84.2,0.7,Pescatarian,16.1,6,95.1
+1073,50,Female,Caucasian,Asia,20.1,0,0,2.94,567.5,100.5,0.71,Pescatarian,49.3,5,50.0
+1074,33,Male,African,Europe,21.1,0,1,3.82,566.7,72.7,0.77,Pescatarian,23.9,5,63.3
+1075,23,Female,Hispanic,Asia,24.4,1,0,2.02,257.4,76.7,0.52,Vegetarian,8.6,1,78.3
+1076,45,Other,Hispanic,Asia,32.3,1,1,1.1,512.2,48.3,0.62,Pescatarian,48.4,5,61.4
+1077,32,Other,Caucasian,Africa,26.8,0,0,2.88,694.4,52.5,0.59,Vegetarian,39.6,2,60.9
+1078,55,Male,African,Africa,27.6,1,1,3.43,603.9,60.3,0.81,Pescatarian,24.8,10,58.6
+1079,28,Other,Asian,Oceania,33.0,0,1,1.62,587.1,96.4,0.51,Pescatarian,36.3,2,73.2
+1080,80,Female,Caucasian,North America,32.4,0,0,1.43,533.4,49.2,0.61,Pescatarian,25.8,1,87.6
+1081,65,Male,Asian,Africa,20.9,1,1,3.33,416.4,42.4,0.12,Vegetarian,17.3,7,57.9
+1082,22,Male,Caucasian,North America,33.4,0,0,1.88,629.9,76.7,0.59,Vegetarian,8.6,2,75.3
+1083,19,Female,African,Europe,20.0,0,1,3.51,570.6,58.8,0.61,Omnivore,9.6,9,84.8
+1084,23,Male,Caucasian,Oceania,23.3,0,1,1.53,731.2,88.0,0.51,Pescatarian,36.7,6,52.7
+1085,31,Male,Caucasian,Oceania,21.3,0,1,1.18,612.1,88.6,0.65,Vegetarian,40.8,7,55.6
+1086,53,Other,Asian,Oceania,27.8,0,0,2.06,264.3,71.6,0.27,Pescatarian,12.5,6,70.9
+1087,42,Female,Caucasian,Europe,32.9,0,1,3.44,538.2,82.2,0.55,Pescatarian,24.5,2,58.8
+1088,74,Other,Hispanic,Asia,25.2,1,0,2.65,363.5,110.9,0.44,Pescatarian,39.0,8,95.2
+1089,72,Female,African,Africa,33.5,1,1,2.96,244.3,81.5,0.53,Omnivore,15.0,5,50.9
+1090,71,Male,Asian,Europe,23.3,0,0,1.25,346.5,74.5,0.24,Omnivore,29.8,5,91.2
+1091,47,Female,Hispanic,Asia,27.3,1,1,2.55,471.8,92.6,0.57,Vegetarian,38.0,1,74.0
+1092,73,Female,Hispanic,Africa,23.6,0,1,0.59,271.4,47.0,0.99,Omnivore,40.7,1,52.3
+1093,37,Male,African,North America,23.0,0,1,3.94,212.2,70.7,0.88,Vegetarian,25.3,9,99.1
+1094,44,Female,Caucasian,Oceania,25.5,0,0,3.53,304.2,72.7,0.3,Vegetarian,42.5,1,96.3
+1095,73,Other,African,Oceania,33.4,0,0,1.98,763.4,95.7,0.85,Pescatarian,24.3,2,57.2
+1096,68,Female,Hispanic,Oceania,24.3,1,0,2.65,618.5,87.6,0.02,Vegetarian,20.8,1,81.5
+1097,43,Other,African,Asia,34.6,1,1,1.51,228.8,69.8,0.0,Omnivore,47.2,1,61.0
+1098,25,Female,Asian,Asia,31.1,0,0,3.62,424.4,103.1,0.48,Pescatarian,29.1,6,85.0
+1099,76,Other,Other,Oceania,31.0,1,1,2.86,570.0,87.8,0.77,Omnivore,23.5,8,73.5
+1100,77,Female,Asian,Europe,33.3,1,0,3.55,642.1,82.2,0.22,Pescatarian,38.9,4,52.3
+1101,71,Female,Other,Asia,24.4,0,1,1.91,523.2,101.8,0.71,Omnivore,12.1,4,76.1
+1102,20,Female,African,North America,19.1,0,1,3.51,747.3,82.3,0.87,Omnivore,17.3,3,84.9
+1103,31,Male,Hispanic,North America,22.9,0,0,2.87,519.7,53.6,0.63,Vegetarian,46.7,3,70.0
+1104,77,Other,Asian,Oceania,20.8,0,1,2.09,286.6,48.7,0.72,Vegetarian,27.0,9,92.8
+1105,50,Other,Other,Oceania,27.7,1,1,2.56,599.0,94.7,0.02,Pescatarian,45.5,7,87.1
+1106,35,Male,African,Africa,26.5,0,1,2.68,452.3,118.7,0.39,Pescatarian,37.8,5,61.3
+1107,48,Male,African,Europe,28.5,0,0,1.36,331.7,57.0,0.19,Vegetarian,14.6,8,96.9
+1108,68,Other,Caucasian,Oceania,21.9,1,1,2.27,622.8,75.3,0.43,Vegetarian,30.8,4,53.7
+1109,55,Male,Caucasian,North America,28.1,0,1,1.3,424.2,49.4,0.91,Omnivore,18.2,10,73.1
+1110,57,Female,Other,Oceania,33.3,0,1,2.17,403.7,117.5,0.59,Vegetarian,10.8,6,66.7
+1111,18,Other,African,North America,29.9,0,1,2.88,732.6,104.3,0.69,Vegetarian,41.1,6,75.3
+1112,69,Other,African,Europe,19.2,0,1,3.57,534.2,77.8,0.2,Pescatarian,33.9,9,87.6
+1113,37,Male,Caucasian,Europe,18.6,0,0,2.5,625.6,56.0,0.48,Vegetarian,44.0,3,51.2
+1114,32,Male,African,Oceania,21.0,0,1,1.46,550.0,51.5,0.66,Vegetarian,9.1,1,54.3
+1115,67,Female,African,Africa,26.9,0,0,2.57,460.2,54.6,0.86,Pescatarian,46.5,10,89.9
+1116,56,Other,African,Africa,27.6,0,0,2.35,511.3,98.0,0.73,Omnivore,42.0,2,72.9
+1117,29,Female,African,Africa,25.7,1,0,2.49,651.3,51.4,0.84,Vegetarian,7.3,9,96.4
+1118,70,Other,Asian,North America,23.3,0,0,1.99,641.5,106.5,0.45,Omnivore,16.1,2,88.8
+1119,25,Female,Caucasian,North America,23.1,0,0,2.31,315.8,107.4,0.58,Vegetarian,22.2,4,61.4
+1120,73,Male,Asian,Asia,24.9,1,1,2.75,639.3,107.1,0.81,Omnivore,37.1,9,66.9
+1121,37,Female,Other,Africa,34.9,0,0,2.35,673.7,103.3,0.79,Omnivore,14.6,7,73.5
+1122,74,Male,Other,Asia,22.7,0,0,2.23,761.3,40.1,0.82,Vegetarian,34.4,9,99.7
+1123,51,Other,Hispanic,Europe,28.8,0,0,1.99,209.1,41.3,0.67,Omnivore,45.7,3,84.9
+1124,59,Female,African,Asia,24.0,0,0,0.94,756.9,52.1,0.69,Pescatarian,30.5,1,81.5
+1125,33,Male,African,Asia,19.1,0,0,2.29,365.8,119.0,0.7,Pescatarian,44.1,9,70.0
+1126,26,Male,Asian,Oceania,19.7,0,0,3.66,567.0,94.0,0.79,Vegetarian,45.5,6,65.7
+1127,21,Other,Asian,Europe,32.0,0,1,1.49,345.3,116.8,0.56,Omnivore,23.6,4,87.7
+1128,61,Other,Caucasian,Africa,32.0,0,1,3.79,504.3,65.2,0.26,Pescatarian,47.6,8,97.5
+1129,80,Male,Asian,Asia,30.8,0,1,2.88,272.3,86.4,0.41,Omnivore,20.3,2,79.3
+1130,77,Male,Other,North America,34.6,1,0,0.84,551.7,80.1,0.35,Vegetarian,30.8,8,89.1
+1131,50,Female,Hispanic,North America,27.5,0,0,0.57,705.6,111.3,0.56,Pescatarian,47.9,2,94.6
+1132,55,Female,Caucasian,North America,34.1,1,0,0.64,601.5,49.4,0.68,Pescatarian,31.4,3,96.8
+1133,32,Female,Other,Oceania,26.4,0,1,0.95,405.9,82.5,0.41,Omnivore,14.0,7,75.3
+1134,35,Other,Caucasian,North America,23.9,1,1,1.9,708.1,98.4,0.13,Pescatarian,8.4,10,83.4
+1135,51,Male,Caucasian,Asia,29.2,0,1,2.36,417.1,108.1,0.61,Vegetarian,39.4,1,83.4
+1136,22,Other,Asian,Europe,32.7,0,1,0.77,459.6,104.5,0.92,Omnivore,22.8,8,70.0
+1137,56,Male,Other,Europe,34.0,0,1,1.7,423.9,116.2,0.15,Vegetarian,24.1,2,74.3
+1138,48,Female,Other,Africa,24.0,0,1,0.86,368.7,72.4,0.03,Vegetarian,49.4,6,98.9
+1139,24,Other,Hispanic,Asia,23.4,1,0,3.35,285.5,79.4,0.09,Vegetarian,44.4,2,59.8
+1140,18,Male,African,Europe,29.4,0,1,3.98,545.8,95.2,0.4,Vegetarian,42.1,9,60.2
+1141,60,Other,Caucasian,Europe,24.7,1,0,3.73,458.2,102.7,0.36,Omnivore,21.9,7,97.7
+1142,76,Female,Hispanic,Africa,21.0,0,1,3.72,380.4,78.6,0.7,Omnivore,14.7,6,97.6
+1143,41,Other,Other,Asia,20.6,0,1,1.51,653.6,90.1,0.33,Omnivore,24.6,8,74.0
+1144,27,Female,Hispanic,North America,28.5,1,1,0.67,467.3,86.5,0.08,Vegetarian,43.2,10,51.0
+1145,70,Female,African,Africa,30.7,0,1,2.86,271.3,91.9,0.34,Vegetarian,21.4,2,70.5
+1146,47,Male,African,Europe,24.4,0,0,1.5,629.7,43.1,0.66,Vegetarian,25.3,3,60.5
+1147,75,Female,African,North America,27.9,1,1,1.81,475.3,80.8,0.97,Omnivore,28.0,2,72.3
+1148,20,Other,Caucasian,Oceania,26.7,1,1,2.75,646.8,98.0,0.61,Pescatarian,38.6,3,93.0
+1149,28,Male,Asian,Oceania,22.9,0,0,1.63,442.0,54.0,0.22,Omnivore,47.3,4,67.5
+1150,27,Other,African,Asia,31.0,0,1,3.1,365.7,89.3,0.44,Omnivore,7.1,6,76.5
+1151,36,Other,Other,Oceania,21.9,0,0,1.59,339.3,80.6,0.23,Vegetarian,26.7,10,68.9
+1152,44,Other,Asian,Asia,28.4,1,0,3.85,778.4,64.8,0.29,Omnivore,40.9,5,62.8
+1153,43,Male,Hispanic,Oceania,25.0,1,0,3.84,283.9,83.4,0.85,Pescatarian,33.8,8,87.4
+1154,79,Male,Caucasian,Africa,31.5,1,1,1.03,414.6,63.4,0.42,Omnivore,35.2,3,97.0
+1155,24,Female,Other,Oceania,18.7,0,0,2.43,349.1,89.0,0.91,Omnivore,28.7,2,72.6
+1156,35,Female,Caucasian,Oceania,32.8,0,1,1.9,398.0,96.2,0.13,Vegetarian,20.9,4,91.6
+1157,21,Other,Hispanic,Africa,23.7,1,1,3.69,677.8,86.4,0.26,Vegetarian,5.7,8,62.7
+1158,47,Male,Hispanic,Africa,21.7,1,1,1.47,454.8,50.1,0.35,Omnivore,24.5,8,97.2
+1159,42,Other,African,Europe,27.4,0,1,0.94,642.2,115.8,0.72,Omnivore,6.6,9,99.4
+1160,50,Female,African,Africa,32.5,0,0,2.73,361.5,116.9,0.9,Omnivore,13.8,10,95.1
+1161,67,Other,Other,Africa,21.0,1,0,1.3,767.2,117.8,0.6,Vegetarian,5.1,4,92.9
+1162,52,Male,Hispanic,Oceania,33.5,1,0,3.66,577.5,50.0,0.26,Omnivore,12.1,9,63.5
+1163,23,Female,Asian,North America,22.2,1,0,1.2,587.0,63.0,0.35,Vegetarian,34.6,9,76.8
+1164,29,Male,African,North America,29.0,0,1,1.8,770.1,96.9,0.86,Pescatarian,25.2,7,63.9
+1165,63,Other,Other,North America,30.5,0,0,1.46,633.5,88.3,0.96,Vegetarian,46.1,7,63.0
+1166,72,Male,Hispanic,Oceania,27.8,1,0,1.54,657.8,49.6,0.28,Pescatarian,43.2,4,76.5
+1167,18,Female,Other,Oceania,34.7,0,1,3.88,742.1,57.5,0.31,Omnivore,19.0,2,64.6
+1168,21,Other,Asian,Europe,30.4,1,0,3.93,236.2,75.9,0.23,Vegetarian,17.9,4,72.5
+1169,20,Female,Hispanic,Asia,21.3,0,0,0.51,526.5,54.7,0.13,Omnivore,10.4,6,54.0
+1170,31,Female,Other,Africa,21.9,0,1,2.7,776.1,51.6,0.71,Vegetarian,19.8,5,54.8
+1171,59,Male,Other,Africa,34.0,1,1,2.85,652.3,102.1,0.22,Omnivore,31.6,8,51.6
+1172,27,Other,African,Asia,22.7,0,1,3.46,657.4,72.3,0.73,Pescatarian,27.2,8,78.0
+1173,36,Female,Hispanic,North America,27.8,1,1,1.09,591.0,42.0,0.28,Omnivore,14.2,8,66.9
+1174,71,Male,African,Asia,28.5,1,0,2.76,448.3,88.4,0.18,Pescatarian,33.4,4,71.0
+1175,35,Female,Asian,Africa,25.4,0,0,0.91,254.9,85.9,0.68,Omnivore,40.0,8,51.7
+1176,39,Other,Asian,North America,20.8,0,1,1.55,203.6,103.6,0.21,Vegetarian,31.7,2,64.7
+1177,48,Other,Other,Asia,29.1,0,0,1.71,526.3,63.0,0.21,Omnivore,29.6,2,71.9
+1178,68,Other,Asian,North America,28.2,0,1,3.17,391.4,98.4,0.93,Vegetarian,18.5,6,86.2
+1179,65,Other,Other,Asia,20.4,0,1,0.92,357.3,89.5,0.03,Omnivore,44.6,7,66.5
+1180,28,Other,Hispanic,Europe,25.0,1,1,1.19,305.0,115.6,0.98,Pescatarian,33.6,4,52.9
+1181,30,Male,African,Oceania,26.2,0,0,2.98,602.6,96.0,0.24,Vegetarian,32.0,6,84.4
+1182,51,Other,Caucasian,Oceania,30.6,0,1,3.6,683.7,84.2,0.86,Vegetarian,24.2,3,65.9
+1183,59,Male,Other,Africa,20.0,1,1,2.89,591.3,96.1,0.55,Pescatarian,26.8,9,68.6
+1184,25,Male,Caucasian,Oceania,33.1,1,1,3.68,273.1,58.2,0.45,Pescatarian,18.8,2,60.2
+1185,44,Male,Hispanic,Asia,25.2,0,0,3.45,604.1,45.2,0.32,Pescatarian,16.4,10,57.3
+1186,45,Male,Asian,Oceania,33.3,1,0,0.59,331.5,87.7,0.72,Omnivore,25.2,4,76.1
+1187,32,Other,Caucasian,Europe,21.0,0,1,3.69,330.0,113.5,0.99,Vegetarian,24.5,1,76.0
+1188,66,Male,Hispanic,Africa,18.8,1,1,3.32,279.7,42.7,0.01,Omnivore,13.0,10,97.8
+1189,64,Male,Hispanic,Africa,22.8,1,1,3.23,708.6,86.4,0.61,Omnivore,32.7,4,71.3
+1190,59,Male,African,Asia,29.2,1,1,2.09,452.5,72.9,0.55,Pescatarian,32.9,8,99.2
+1191,63,Male,African,Asia,34.6,1,0,1.7,503.9,55.0,0.07,Pescatarian,14.2,4,65.4
+1192,18,Female,Caucasian,Oceania,25.6,1,0,1.13,212.1,90.6,0.85,Pescatarian,31.5,3,80.9
+1193,44,Female,Caucasian,Europe,22.7,1,0,1.92,425.4,58.3,0.51,Omnivore,12.0,9,71.6
+1194,78,Female,Other,Europe,28.7,0,0,3.6,675.7,52.2,0.81,Pescatarian,24.4,4,86.3
+1195,61,Other,African,Asia,26.9,1,0,2.17,558.4,92.0,0.13,Pescatarian,24.6,3,59.2
+1196,43,Female,Asian,Africa,27.7,1,0,3.54,366.5,117.4,0.38,Vegetarian,47.4,3,86.6
+1197,68,Male,African,Asia,30.5,0,0,1.66,754.3,90.5,0.79,Omnivore,29.3,4,62.4
+1198,68,Male,Other,Asia,32.2,0,0,1.15,236.2,85.4,0.25,Omnivore,31.6,7,87.9
+1199,76,Female,African,North America,33.5,0,0,1.98,442.2,40.5,0.63,Vegetarian,34.2,8,99.7
+1200,20,Male,African,North America,23.8,0,0,1.37,735.0,88.9,0.39,Vegetarian,33.4,10,90.1
