@@ -1,6 +1,7 @@
 import pandas as pd
 import pickle  # For loading encoders, scalers, and models
 import json
+import os  # Added for cross-platform path handling
 
 def predict_health_risk(json_input):
     try:
@@ -18,20 +19,32 @@ def predict_health_risk(json_input):
         # Convert the dictionary into a DataFrame
         input_data = pd.DataFrame([input_dict])
 
+        # Use cross-platform path handling for models directory
+        base_dir = os.path.dirname(os.path.abspath(__file__))  # Get the current script location
+        label_encoders_path = os.path.join(base_dir, 'models', 'label_encoders.pkl')
+        scaler_path = os.path.join(base_dir, 'models', 'scaler.pkl')
+        risk_model_path = os.path.join(base_dir, 'models', 'best_risk_model.pkl')
+        health_model_path = os.path.join(base_dir, 'models', 'best_health_model.pkl')
+
         # Load the saved LabelEncoders and StandardScaler
-        with open('models\\label_encoders.pkl', 'rb') as f:
+        with open(label_encoders_path, 'rb') as f:
             label_encoders = pickle.load(f)
 
-        with open('models\\scaler.pkl', 'rb') as f:
+        with open(scaler_path, 'rb') as f:
             scaler = pickle.load(f)
 
         # Encode categorical columns using the saved LabelEncoders
         for column in ['Gender', 'Ethnicity', 'Region', 'Diet_Type']:
             if column in input_data:
                 if column in label_encoders:
-                    input_data[column] = label_encoders[column].transform(input_data[column])
+                    input_data[column] = input_data[column].map(
+                        lambda x: label_encoders[column].transform([x])[0]
+                        if x in label_encoders[column].classes_ else -1
+                    )
+                    if -1 in input_data[column].values:
+                        raise ValueError(f"Unknown value provided for '{column}'. Please check the input.")
                 else:
-                    raise ValueError(f"Unknown category in '{column}'. Please provide a valid value.")
+                    raise ValueError(f"Missing encoder for column '{column}'.")
 
         # Standardize the numerical features using the saved scaler
         numerical_features = ['Age', 'BMI', 'Omega_3_Intake', 'Vitamin_D_Intake',
@@ -39,10 +52,10 @@ def predict_health_risk(json_input):
         input_data[numerical_features] = scaler.transform(input_data[numerical_features])
 
         # Load the saved models
-        with open('models\\best_risk_model.pkl', 'rb') as f:
+        with open(risk_model_path, 'rb') as f:
             best_risk_model = pickle.load(f)
 
-        with open('models\\best_health_model.pkl', 'rb') as f:
+        with open(health_model_path, 'rb') as f:
             best_health_model = pickle.load(f)
 
         # Predict the Projected Risk Reduction
